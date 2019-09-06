@@ -28,6 +28,11 @@ share: false
 
 (18.) Andreas, L. Meyer, **Cristian Román‐Palacios**, and John. J. Wiens (2018). BAMM gives misleading rate estimates in simulated and empirical datasets. Evolution, 72, 2257-2266. [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf)
 
+# Altmetric badge 
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
 (17.) Aldrete, A. N. G., Carrejo, N. S., Mendivil, J., Calderón, N., Saenz, O., Panche, J., **Román- Palacios,C.**, and Obando, R. G. (2018). Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to the families. Dugesiana, 25(2), 77-103. [PDF](2018_Garcia-Aldrete et al 2018_Psocoptera_Colombia.pdf)
 
 (16.) **Cristian Román-P** and John J. Wiens. The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations. Journal of Biogeography. 2018. [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf)
