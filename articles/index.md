@@ -21,8 +21,7 @@ share: false
 
 >2019
 
-(19.) **Román-Palacios, C.**, J. P. Scholl, and J. J. Wiens. 2019. Evolution of diet across the animal Tree of Life. Evolution Letters [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf) 
-<div class='altmetric-embed' data-doi='10.1038/nature.2012.9872'></div>
+(19.) **Román-Palacios, C.**, J. P. Scholl, and J. J. Wiens. 2019. Evolution of diet across the animal Tree of Life. Evolution Letters [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf)  <div class='altmetric-embed' data-doi='10.1038/nature.2012.9872'></div>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 >2018
