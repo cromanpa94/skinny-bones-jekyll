@@ -134,7 +134,7 @@ Al captar la atención del profesor de interes y empezar a hablar seriamente sob
 Gracias por leer! Espero haya sido de alguna forma ultil! Intentaré agregar más información con el pasar de las semanas. Po cierto! Alguien me mencionó alguna vez que uno (por lo general) escoge profesor, universidad, o ciudad. No las tres.
 
 
-**Rafael Marcodes, de LSU escribió un Blog hace poco sobre el proceso de aplicación.**
+**Rafael Marcondes (LSU, USA) escribió un Blog hace poco sobre el proceso de aplicación.**
 [Link](https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/)
 
 *****Mucha suerte! :)
