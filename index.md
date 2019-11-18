@@ -29,9 +29,8 @@ image:
     
     <a href="https://youpic.com/photographer/Cromanpa/">photos</a>.</p>
     
-<!--<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=OyIN&d=ipkSndE8_XFxOZZl00Ta_2fSaEztt1OMQcXl1Lh2LTQ"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=OyIN&d=ipkSndE8_XFxOZZl00Ta_2fSaEztt1OMQcXl1Lh2LTQ"></script>
 
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=nDTSka080fF0VQ6-kyxUd0KR4-KiE_tEtMOI2doq1is"></script>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
