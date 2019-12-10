@@ -12,7 +12,7 @@ ads: false
 ---
 
 <p align="center">
-  <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br>
+  <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br><br>
   <b>Cristian Román-Palacios</b><br>
   Ph.D. candidate  <br>
   Department of Ecology and Evolutionary Biology,<br>  
