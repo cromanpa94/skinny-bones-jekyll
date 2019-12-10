@@ -52,8 +52,7 @@ phibians from Colombia. Revista de Biologia Tropical, 66:1272-1281*. [PDF](2018_
 
 (10.) **Cristian Román-Palacios**, Sara Fernandez-Garzon, Jenny Johana Gallo-Franco, Alan Giraldo-Lopez, Monica Hernandez-Lopez, and Wilmar Bolivar-Garcia. 2017. *Uso de microhábitat por anuros en un fragmento de bosque seco intervenido del Magdalena medio, Guarinocito, Colombia*. Boletín Científico Centro De Museos Museo De Historia Natural, 20:181-196. [PDF](2016_Roman-Palacios et al_2016_Guarinocito.pdf)
 
-(9.) **Cristian Román-Palacios**, and Cesar Román Valencia. 2017. *Dieta y reproducción de Bryconamer-
-icus caucanus (Characiformes: Characidae) en La Venada, Río Quindío, Colombia*. Revista MVZ Córdoba, 2:1-17. [PDF](2016_Roman-Palacios et al_2016_caucanus.pdf) 
+(9.) **Cristian Román-Palacios**, and Cesar Román Valencia. 2017. *Dieta y reproducción de Bryconamericus caucanus (Characiformes: Characidae) en La Venada, Río Quindío, Colombia*. Revista MVZ Córdoba, 2:1-17. [PDF](2016_Roman-Palacios et al_2016_caucanus.pdf) 
 
 (8.) **Cristian Román-Palacios**, Alfonso Neri García-Aldrete, and Ranulfo Gonzalez Obando. 2016. *Historical biogeography of Thyrsophorini psocids and description of a new Neotropical species of Thyrsopsocopsis (Psocodea: Psocomorpha: Psocidae)*. European Journal of Entomology, 194:1-16. [PDF](2016_Roman-Palacios et al 2016_Thyrso.pdf)
 
@@ -63,7 +62,7 @@ icus caucanus (Characiformes: Characidae) en La Venada, Río Quindío, Colombia*
 
 (6.) **Cristian Román-Palacios**, and Alfonso N. García Aldrete. 2015. *A new Neotropical genus of Blastini (Psocodea:’Psocoptera’: Psocidae: Amphigerontiinae)*. Zootaxa, 4000:392-396. [PDF](2015_Garcia-Aldrete_Roman-Palacios_2015_Blastini.pdf)
 
-(5.) Daniela Moraga Lopez*, and **Cristian Román-Palacios***. 2015. *Information criteria on multimodel selection of parametric regression: Biological applications*. Revista Comunicaciones en Estadística, 8:45-57. [PDF](2015_Moraga_Lopez_Roman-Palacios_2015_Multimodel.pdf)
+(5.) Daniela Moraga Lopez*, and **Cristian Román-Palacios***. 2015. *Information criteria on multimodel selection of parametric regression: Biological applications*. Revista Comunicaciones en Estadística, 8:45-57. [PDF (2015_Moraga_Lopez_Roman-Palacios_2015_Multimodel.pdf)
 
 (4.) **Cristian Román-Palacios**, Ranulfo Gonzalez Obando, and Alfonso N. Garcia Aldrete. 2015. *The genus Elaphopsocus Roesler (Psocodea:’Psocoptera’: Psocidae) with six new species from Brazil and Colombia*. Zootaxa, 3957:151–168. [PDF](2015_Roman-Palacios_et_al_2015_Elaphosocus.pdf)
 
