@@ -44,12 +44,12 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 (12.) **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Ranulfo Gonzalez-Obando. 2017. *On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography*. Boletin del Museo de Entomologia de la Universidad del Valle, 17:37-46. [PDF](2017_Roman-Palacios%et%al.%2017_Psocidae_Divergence.pdf)
 
-(11.) **Cristian Román-Palacios**, Sara Fernández–Garzón, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, and Ronald A. Viáfara–Vega. 2017. *Lista anotada de la herpetofauna del departamento del Quindío, Colombia*. Biota Colombiana, 18:251-281. [PDF](2017_Roman-Palacios et al. 2017_Quindio_Herps.pdf)
+(11.) **Cristian Román-Palacios**, Sara Fernández–Garzón, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, and Ronald A. Viáfara–Vega. 2017. *Lista anotada de la herpetofauna del departamento del Quindío, Colombia*. Biota Colombiana, 18:251-281. [PDF](2017_Roman-Palacios%et%al.%2017_Quindio_Herps.pdf)
 
 
 >2016
 
-(10.) **Cristian Román-Palacios**, Sara Fernandez-Garzon, Jenny Johana Gallo-Franco, Alan Giraldo-Lopez, Monica Hernandez-Lopez, and Wilmar Bolivar-Garcia. 2017. *Uso de microhábitat por anuros en un fragmento de bosque seco intervenido del Magdalena medio, Guarinocito, Colombia*. Boletín Científico Centro De Museos Museo De Historia Natural, 20:181-196. [PDF](2016_Roman-Palacios et al_2016_Guarinocito.pdf)
+(10.) **Cristian Román-Palacios**, Sara Fernandez-Garzon, Jenny Johana Gallo-Franco, Alan Giraldo-Lopez, Monica Hernandez-Lopez, and Wilmar Bolivar-Garcia. 2017. *Uso de microhábitat por anuros en un fragmento de bosque seco intervenido del Magdalena medio, Guarinocito, Colombia*. Boletín Científico Centro De Museos Museo De Historia Natural, 20:181-196. [PDF](2016_Roman-Palacios%et%al_2016_Guarinocito.pdf)
 
 (9.) **Cristian Román-Palacios**, and Cesar Román Valencia. 2017. *Dieta y reproducción de Bryconamericus caucanus (Characiformes: Characidae) en La Venada, Río Quindío, Colombia*. Revista MVZ Córdoba, 2:1-17. [PDF](2016_Roman-Palacios%et%al_2016_caucanus.pdf) 
 
