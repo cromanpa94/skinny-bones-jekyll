@@ -15,11 +15,11 @@ ads: false
   <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br><br>
   <b>Cristian Román-Palacios</b><br>
   Ph.D. candidate  <br>
-  Department of Ecology and Evolutionary Biology,<br>  
-  University of Arizona,  <br>  
-  Biological Sciences West, 1041 E. Lowell st.,<br>  
-  Tucson, AZ  85721,<br>  
-  Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a>,<br>  
-  Email: <a href="mailto:cromanpa94@email.arizona.edu">cromanpa94@email.arizona.edu</a>,<br>  
+  Department of Ecology and Evolutionary Biology<br>  
+  University of Arizona  <br>  
+  Biological Sciences West, 1041 E. Lowell st.<br>  
+  Tucson, AZ  85721<br>  
+  Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a><br>  
+  Email: <a href="mailto:cromanpa94@email.arizona.edu">cromanpa94@email.arizona.edu</a><br>  
   Skype: live:crp-50_1
 </p>
