@@ -26,7 +26,7 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 >2018
 
-(18.) Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. link:++2018_Meyer_et_al_Evol_2018_BAMM.pdf++[PDF]
+(18.) Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf)
 
 (17.) Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. [PDF](2018_Garcia-Aldrete%et al%2018_Psocoptera_Colombia.pdf)
 
@@ -38,7 +38,7 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 (14.) **Cristian Román-P**, Jakob Damgaard, Cheng, Lanna, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir and Herbert Zettle. 2018. *Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae)*. Journal of Insect Systematics and Evolution, 10.1163/1876312X-00002197. [PDF](2018_Roman-Palacios_et_al._Halobatinae.pdf)
 
-(13.) **Cristian Román-Palacios**, and Alejandro Valencia-Zuleta. 2018. *On the Data Deficient amphibians from Colombia*. Revista de Biologia Tropical, 66:1272-1281. [PDF](2018_Roman-Palacios_&_Valencia-Zuleta%2018_Colombian_DD.pdf)
+(13.) **Cristian Román-Palacios**, and Alejandro Valencia-Zuleta. 2018. *On the Data Deficient amphibians from Colombia*. Revista de Biologia Tropical, 66:1272-1281. [PDF](2018_Roman-Palacios_&_Valencia-Zuleta-2018_Colombian_DD.pdf)
 
 >2017
 
