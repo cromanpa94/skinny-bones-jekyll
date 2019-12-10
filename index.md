@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Research</h2>
-  <p class="post-excerpt" align=”justify”>I use statistics and bioinformatics to address questions in the interface between ecology and evolution. Nevertheless, I am also widely interested in understanding phylogenetics, convervation biology, and the effects of climate change on biodiversity at different scales </p>
+  <p class="post-excerpt">I use statistics and bioinformatics to address questions in the interface between ecology and evolution. Nevertheless, I am also widely interested in understanding phylogenetics, convervation biology, and the effects of climate change on biodiversity at different scales </p>
 </div><!-- /.tile -->
 
 <div class="tile">
