@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Affiliations</h2>
-  <p class="post-excerpt">I am a current Ph.D. candidate at the department of Ecology and Evolutionary Biology (University of Arizona) working with <a href="https://www.wienslab.com/Home.html">John J. Wiens</a>. I also collaborate with three research groups in Colombia: <a href="https://paginaiuq.wordpress.com">Biodiversidad animal (Universidad del Quindío, Armenia)</a>, <a href="http://entomologia.univalle.edu.co">Grupo de Investigaciones Entomológicas (GIE, Universidad del Valle)</a>, and <a href="https://sites.google.com/a/correounivalle.edu.co/seyba/">Sistemática, evolución y biodiversidad animal (SEyBA, Universidad del Valle)</a>.</p>
+  <p class="post-excerpt">I am a current Ph.D. candidate at the department of Ecology and Evolutionary Biology (University of Arizona) working with <a href="https://www.wienslab.com/Home.html">John J. Wiens</a>. I also collaborate with three research groups in Colombia: <a href="https://paginaiuq.wordpress.com">Biodiversidad animal</a>, <a href="http://entomologia.univalle.edu.co">GIE</a>, and <a href="https://sites.google.com/a/correounivalle.edu.co/seyba/">SEyBA</a>.</p>
 </div><!-- /.tile -->
 
 
