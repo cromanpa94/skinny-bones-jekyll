@@ -9,13 +9,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Research</h2>
-  <p class="post-excerpt">I (usually) combine statistics and bioinformatics to address questions in the interface between ecology and evolution. I'm widely interested in climate change, conservation biology, and phylogenetics in general. My interests are not taxonomically-restricted </p>
+  <p class="post-excerpt">I use statistics and bioinformatics to address questions in the interface between ecology and evolution. Nevertheless, I am also widely interested in understanding phylogenetics, convervation biology, and the effects of climate change on biodiversity at a local and regional scales </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Brief Bio</h2>
-  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes, amazing biodiversity and neat friends! I did my undergrad in the Universidad del Valle, in Cali, Colombia. </p>
-
+  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I receive my bachelor's degree from Universidad del Valle, in Cali, Colombia. I am also very much into photography! <a href="https://youpic.com/photographer/Cromanpa/"></a>. </p>.
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -24,11 +23,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Hobbies</h2>
-  <p class="post-excerpt">Love taking 
-    
-    <a href="https://youpic.com/photographer/Cromanpa/">photos</a>.</p>
-    
+  <h2 class="post-title">Who has visited my website?</h2>
+  <p class="post-excerpt">See below!</p>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=OyIN&d=ipkSndE8_XFxOZZl00Ta_2fSaEztt1OMQcXl1Lh2LTQ"></script>
 
 </div><!-- /.tile -->
