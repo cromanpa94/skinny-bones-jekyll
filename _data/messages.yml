@@ -6,7 +6,7 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Overview"
-    toc: "Table of Contents"
+    #toc: "Table of Contents"
     written_by: "Written by"
     updated: "Updated"
     share: "Share on"
@@ -20,7 +20,7 @@ locales:
   de: &DEFAULT_DE
     <<: *DEFAULT_EN     # load English values as default
     overview: "&Uuml;bersicht"
-    toc: "Inhalt"
+    #toc: "Inhalt"
     written_by: "Verfasst von"
     updated: "Zuletzt aktualisiert:"
     share: ""
@@ -32,7 +32,7 @@ locales:
   fr: &DEFAULT_FR
     <<: *DEFAULT_EN     # load English values as default
     overview: "Aperçu"
-    toc: "Table des matières"
+    #toc: "Table des matières"
     written_by: "Écrit par"
     updated: "Mis à jour"
     share: "Partager sur"
