@@ -8,7 +8,7 @@ image:
   feature:
   teaser:
   thumb:
-share: false
+share: true
 ---
 <p align="center">
   <b>Last update: Nov, 2019</b><br>
