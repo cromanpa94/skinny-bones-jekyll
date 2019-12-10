@@ -19,7 +19,7 @@ ads: false
   University of Arizona,  <br>  
   Biological Sciences West, 1041 E. Lowell st.,<br>  
   Tucson, AZ  85721,<br>  
-  Phone: <a href="tel:15202885856">(+1) 520-288-5856</a>,<br>  
+  Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a>,<br>  
   Email: <a href="mailto:cromanpa94@email.arizona.edu">cromanpa94@email.arizona.edu</a>,<br>  
   Skype: live:crp-50_1
 </p>
