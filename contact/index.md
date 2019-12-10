@@ -11,6 +11,8 @@ share: false
 ads: false
 ---
 
+![Image of Yaktocat](<2019-11-21 10.51.14.jpg>)
+
 **Cristian Román-Palacios**   
 Ph.D. candidate,  
 Department of Ecology and Evolutionary Biology,  
