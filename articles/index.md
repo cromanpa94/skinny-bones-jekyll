@@ -22,7 +22,7 @@ share: false
 (19.) **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across
 the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf)  
 
-*Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). [Radio interview on Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).
+*Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). Radio interview on [Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).
 
 >2018
 
