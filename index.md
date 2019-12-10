@@ -9,12 +9,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Research</h2>
-  <p class="post-excerpt">I use statistics and bioinformatics to address questions in the interface between ecology and evolution. Nevertheless, I am also widely interested in understanding phylogenetics, convervation biology, and the effects of climate change on biodiversity at a local and regional scales </p>
+  <p class="post-excerpt">I use statistics and bioinformatics to address questions in the interface between ecology and evolution. Nevertheless, I am also widely interested in understanding phylogenetics, convervation biology, and the effects of climate change on biodiversity at different scales </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Brief Bio</h2>
-  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I receive my bachelor's degree from Universidad del Valle, in Cali, Colombia. I am also very much into photography! <a href="https://youpic.com/photographer/Cromanpa/"></a>. </p>.
+  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I receive my bachelor's degree from Universidad del Valle, in Cali, Colombia. I am also very much into <a href="https://youpic.com/photographer/Cromanpa/">photography!</a></p>.
 </div><!-- /.tile -->
 
 <div class="tile">
