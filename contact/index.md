@@ -20,7 +20,7 @@ ads: false
   Biological Sciences West, 1041 E. Lowell st.,   <br>  
   Tucson, AZ  85721,  <br>  
   Phone: (+1) 520-288-5856,  <br>  
-  Email: [cromanpa94@email.arizona.edu](mailto:cromanpa94@email.arizona.edu)  <br>  
+  Email: mailto:cromanpa94@email.arizona.edu 
   Skype: live:crp-50_1
 
    
