@@ -11,7 +11,6 @@ image:
 share: false
 ---
 
-# Code
 
 ## R packages
 
