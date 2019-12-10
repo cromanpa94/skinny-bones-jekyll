@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Biography</h2>
-  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I receive my bachelor's degree from Universidad del Valle, in Cali, Colombia. I am also very much into <a href="https://youpic.com/photographer/Cromanpa/">photography!</a></p>
+  <p class="post-excerpt" class="center"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I receive my bachelor's degree from Universidad del Valle, in Cali, Colombia. I am also very much into <a href="https://youpic.com/photographer/Cromanpa/">photography!</a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
