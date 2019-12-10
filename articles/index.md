@@ -15,8 +15,6 @@ share: false
 
 ## Peer-reviewed articles
 
-*Equal contribution
-
 >2019
 
 (19.) **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across
@@ -75,7 +73,7 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 
 ---
-# Submitted manuscripts
+## Submitted manuscripts
 ---
 
 (4.) **Cristian Román-Palacios**, and John J. Wiens. 2019. *Recent responses to climate change reveal
@@ -93,7 +91,7 @@ overall diversity despite higher turnover than diploids in the Brassicaceae.
 
 
 ---
-# Preprints
+## Preprints
 ---
 
 (3.) **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Michael S. Barker (2019). Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae. bioRxiv, 717306. [link](https://www.biorxiv.org/content/10.1101/717306v1)
@@ -104,7 +102,7 @@ overall diversity despite higher turnover than diploids in the Brassicaceae.
 
 ---
 
-# Non-peer-reviewed articles
+## Non-peer-reviewed articles
 
 (3.) **Cristian Román-Palacios**. 2019. Five tips for nailing your US-based graduate-school applications.
 Nature, [10.1038/d41586-019-00845-z](https://www.nature.com/articles/d41586-019-00845-z)
