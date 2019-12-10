@@ -11,16 +11,12 @@ share: false
 ads: false
 ---
 
-**Cristian Roman-Palacios**, *Ph.D. student*
-
-Department of Ecology and Evolutionary Biology 
-
-University of Arizona
-
-Biological Sciences West, Rm 310
-
-1041 E. Lowell St. 
-
-Tucson, AZ  85721
-
-**cromanpa94@email.arizona.edu**
+**Cristian Román-Palacios**   
+Ph.D. candidate,  
+Department of Ecology and Evolutionary Biology,  
+University of Arizona,  
+Biological Sciences West, 1041 E. Lowell st.,   
+Tucson, AZ  85721,  
+Phone: [(+1) 520-288-5856](url=tel:+15202885856),  
+Email: [cromanpa94@email.arizona.edu](mailto:cromanpa94@email.arizona.edu)  
+Skype: live:crp-50_1
