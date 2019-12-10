@@ -26,9 +26,9 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 >2018
 
-(18.) Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf)
+(18.) Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. link:++2018_Meyer_et_al_Evol_2018_BAMM.pdf[PDF]
 
-(17.) Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. [PDF](2018_Garcia-Aldrete%et%al%2018_Psocoptera_Colombia.pdf)
+(17.) Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. [PDF](2018_Garcia-Aldrete%et al%2018_Psocoptera_Colombia.pdf)
 
 (16.) **Cristian Román-Palacios**, and John J. Wiens. 2018. *The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations*. Journal of Biogeography, 45:1701–1702. [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf)
 
