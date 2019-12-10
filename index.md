@@ -19,12 +19,13 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Affiliations</h2>
-  <p class="post-excerpt">I'm a Ph.D. student working at Wiens lab (University of Arizona). I also collaborate with three research groups in Colombia: "Biodiversidad animal" (Universidad del Quindío; Armenia), ”GIE" and "Ceiba" (Universidad del Valle; Cali).</p>
+  <p class="post-excerpt">I am a current Ph.D. candidate at the department of Ecology and Evolutionary Biology (University of Arizona) working with <a href="https://www.wienslab.com/Home.html">John J. Wiens</a>. I also collaborate with three research groups in Colombia: "Biodiversidad animal" (Universidad del Quindío; Armenia), ”GIE" and "Ceiba" (Universidad del Valle; Cali).</p>
 </div><!-- /.tile -->
+
+
 
 <div class="tile">
   <h2 class="post-title">Who has visited my website?</h2>
-  <p class="post-excerpt">See below!</p>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=OyIN&d=ipkSndE8_XFxOZZl00Ta_2fSaEztt1OMQcXl1Lh2LTQ"></script>
 
 </div><!-- /.tile -->
