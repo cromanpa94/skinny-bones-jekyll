@@ -28,7 +28,7 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 (18.) Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf)
 
-(17.) Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. [PDF](2018_Garcia-Aldrete%et al%2018_Psocoptera_Colombia.pdf)
+(17.) Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. [PDF](<2018_Garcia-Aldrete et al 2018_Psocoptera_Colombia.pdf>)
 
 (16.) **Cristian Román-Palacios**, and John J. Wiens. 2018. *The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations*. Journal of Biogeography, 45:1701–1702. [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf)
 
@@ -51,7 +51,7 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 (10.) **Cristian Román-Palacios**, Sara Fernandez-Garzon, Jenny Johana Gallo-Franco, Alan Giraldo-Lopez, Monica Hernandez-Lopez, and Wilmar Bolivar-Garcia. 2017. *Uso de microhábitat por anuros en un fragmento de bosque seco intervenido del Magdalena medio, Guarinocito, Colombia*. Boletín Científico Centro De Museos Museo De Historia Natural, 20:181-196. [PDF](<2016_Roman-Palacios et al_2016_Guarinocito.pdf>)
 
-(9.) **Cristian Román-Palacios**, and Cesar Román Valencia. 2017. *Dieta y reproducción de Bryconamericus caucanus (Characiformes: Characidae) en La Venada, Río Quindío, Colombia*. Revista MVZ Córdoba, 2:1-17. [PDF](2016_Roman-Palacios%et%al_2016_caucanus.pdf) 
+(9.) **Cristian Román-Palacios**, and Cesar Román Valencia. 2017. *Dieta y reproducción de Bryconamericus caucanus (Characiformes: Characidae) en La Venada, Río Quindío, Colombia*. Revista MVZ Córdoba, 2:1-17. [PDF](<2016_Roman-Palacios et al_2016_caucanus.pdf>) 
 
 (8.) **Cristian Román-Palacios**, Alfonso Neri García-Aldrete, and Ranulfo Gonzalez Obando. 2016. *Historical biogeography of Thyrsophorini psocids and description of a new Neotropical species of Thyrsopsocopsis (Psocodea: Psocomorpha: Psocidae)*. European Journal of Entomology, 194:1-16. [PDF](<2016_Roman-Palacios et al 2016_Thyrso.pdf>)
 
