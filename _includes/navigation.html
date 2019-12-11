@@ -1,1 +1,5 @@
+	•	{{ site.title }}
+	•	{% for link in site.data.navigation %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign domain = site.url %} {% endif %}
+	•	{{ link.title }}
+	•	{% endfor %} 
 
