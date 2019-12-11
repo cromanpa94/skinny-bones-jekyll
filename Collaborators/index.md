@@ -17,23 +17,28 @@ share: true
 
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Who1</h2>
+  <img src="Photos/test.jpg" width="150">  <br>
   <p class="post-excerpt">XXXX </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Who2</h2>
+  <img src="Photos/test.jpg" width="150">  <br>
   <p class="post-excerpt"> XXX</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Who3</h2>
+  <img src="Photos/test.jpg" width="150">  <br>
+  
   <p class="post-excerpt">XXXX</p>
 </div><!-- /.tile -->
 
 
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Who4</h2>
-  <p class="post-excerpt">XXXX</p>
+ <img src="Photos/test.jpg" width="150">  <br>
+<p class="post-excerpt">XXXX</p>
 </div><!-- /.tile -->
 
 
