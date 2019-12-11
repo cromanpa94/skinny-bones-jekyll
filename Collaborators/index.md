@@ -19,30 +19,32 @@ share: true
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Who1</h2>
   <p align="center">
   <img src="Photos/test.jpg" width="150">  <br>
+  XXXX
   </p>
-  <p class="post-excerpt">XXXX </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Who2</h2>
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Who1</h2>
   <p align="center">
   <img src="Photos/test.jpg" width="150">  <br>
-  </p>  <p class="post-excerpt"> XXX</p>
+  XXXX
+  </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Who3</h2>
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Who1</h2>
   <p align="center">
   <img src="Photos/test.jpg" width="150">  <br>
-  </p>  <p class="post-excerpt">XXXX</p>
+  XXXX
+  </p>
 </div><!-- /.tile -->
 
-
 <div class="tile">
-  <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Who4</h2>
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Who1</h2>
   <p align="center">
   <img src="Photos/test.jpg" width="150">  <br>
-  </p><p class="post-excerpt">XXXX</p>
+  XXXX
+  </p>
 </div><!-- /.tile -->
 
 
