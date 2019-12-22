@@ -21,5 +21,7 @@ ads: false
   Tucson, AZ  85721<br>  
   Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a><br>  
   Email: <a href="mailto:cromanpa94@email.arizona.edu">cromanpa94@email.arizona.edu</a><br>  
+  Twitter: <a href="https://twitter.com/cromanpa">@cromanpa</a><br/>
+  Linkedin: <a href="https://www.linkedin.com/in/cromanpa/">Cristian Román-Palacios</a><br/>
   Skype: live:crp-50_1
 </p>
