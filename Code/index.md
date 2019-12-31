@@ -15,14 +15,20 @@ share: false
 
 ## R packages
 
-**rPHYLOTA** – *Download ortholog clusters from Phylota*
+**treedata.table** – *An R package for manipulating phylogenetic data with data.table*  
+[Documentation](http://www.uyedalab.com/treedata.table/index.html)
+[Repository](https://github.com/uyedaj/treedata.table)
 
-This R package include some functions that used to work fine with the previous implementation of Phylota. Needs to be updated [Try it yourself!](https://github.com/cromanpa94/rPHYLOTA)
+**piphy** – *Phylogenetic pipelines*  
+Includes the latest versions of rPHYLOTA
+[Repository](https://github.com/cromanpa94/piphy)
+
+**rPHYLOTA** – *Download ortholog clusters from Phylota*  
+This R package include some functions that used to work fine with the previous implementation of Phylota. Needs to be updated [Repository](https://github.com/cromanpa94/rPHYLOTA)
 
 
-**BTOpenNLP** – *Building and Training openNLP models in R*
-
-This R package include some functions that are useful to build and train models under openNLP. [Try it yourself!](https://github.com/cromanpa94/BTOpenNLP)
+**BTOpenNLP** – *Building and Training openNLP models in R*  
+This R package include some functions that are useful to build and train models under openNLP. [Repository](https://github.com/cromanpa94/BTOpenNLP)
 
 
 ## Other
