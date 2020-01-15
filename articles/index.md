@@ -15,6 +15,11 @@ share: false
 
 ## Peer-reviewed articles
 
+>2020
+
+**Román-Palacios, Cristian**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. (**in press**)
+
+
 >2019
 
 (19.) **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across
