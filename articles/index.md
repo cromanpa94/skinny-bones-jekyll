@@ -17,8 +17,7 @@ share: false
 
 >2020
 
-(20) **Román-Palacios, Cristian**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. (**in press**)
-
+(20) **Román-Palacios, Cristian**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. [PDF](https://www.pnas.org/content/pnas/early/2020/02/04/1913007117.full.pdf)
 
 >2019
 
