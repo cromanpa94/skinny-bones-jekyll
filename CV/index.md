@@ -11,7 +11,7 @@ image:
 share: true
 ---
 <p align="center">
-  <b>Last update: Nov, 2019</b><br>
+  <b>Last update: July, 2020</b><br>
 </p>
 
 
