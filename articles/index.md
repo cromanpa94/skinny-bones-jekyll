@@ -12,13 +12,16 @@ image:
 share: false
 
 ---
-
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js">
+  
 ## Peer-reviewed articles
 
 >2020
 
-(20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) 
+(20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) <div class='altmetric-embed' data-doi='10.1038/nature.2012.9872'></div>
 
+
+<div class='altmetric-embed' data-doi='10.1038/nature.2012.9872'></div>
   <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="75751186"></div>
 
 
@@ -31,7 +34,7 @@ share: false
 (19.) **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across
 the Animal Tree of Life. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf)  
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63638663"></div>
+</script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63638663"></div>
 
 
 * *Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). Radio interview on [Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).*
@@ -40,14 +43,14 @@ the Animal Tree of Life. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palaci
 
 (18.) Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf)
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="46503795"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="46503795"></div>
 
 
 (17.) Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. [PDF](<2018_Garcia-Aldrete et al 2018_Psocoptera_Colombia.pdf>)
 
 (16.) **Cristian Román-Palacios**, and John J. Wiens. 2018. *The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations. Journal of Biogeography, 45:1701–1702. [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf)
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="44162724"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="44162724"></div>
 
 * *Highlighted as Editor’s Choice.*
 
@@ -110,7 +113,7 @@ distribution of freshwater fish diversity.
 (1.) **Cristian Román-Palacios**, Yherson F. Molina, and Michael S. Barker. 2019. Polyploidy increases
 overall diversity despite higher turnover than diploids in the Brassicaceae.
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64235771"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64235771"></div>
 
 
 
@@ -131,7 +134,7 @@ overall diversity despite higher turnover than diploids in the Brassicaceae.
 (3.) **Cristian Román-Palacios**. 2019. Five tips for nailing your US-based graduate-school applications.
 Nature, [10.1038/d41586-019-00845-z](https://www.nature.com/articles/d41586-019-00845-z)
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="56848920"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="56848920"></div>
 
 
 (2.) **Cristian Román-Palacios**. 2017. P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26. [PDF](Roman-Palacios_2017_stat.pdf) 
