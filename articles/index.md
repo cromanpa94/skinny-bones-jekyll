@@ -17,13 +17,20 @@ share: false
 
 >2020
 
-(20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) <div data-badge-type="4" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+(20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) 
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="75751186"></div>
+<div class="tile">
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Who1</h2>
+  <p align="center">
+  <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="75751186"></div>
+  <br> <br>
+  </p>
+</div><!-- /.tile -->
 
-*Recommended in Faculty Opinions (former Faculty1000).* 
 
-*Featured in stories on several news and science related sites. These include news outlets in the U.S. (e.g. CNN, USA Today, CBS News, Yahoo News, AOL, MSN, Fox News, New York Post, New York Daily News, Arizona Daily Star [with interview], Miami Herald, Kansas City Star, Indianapolis Star, Sacramento Bee, Charlotte Observer, and Detroit Free Press, Salt Lake Tribune), and other countries including the United Kingdom (Daily Mail, The Independent, The London Economic, The Irish Sun, Metro), India (Tribune India, India Times Post, Outlook India, The Week, Canindia, ProKerala), Australia (10Daily), France (Slate, Free, Futura-Science), Italy (Galileo), Spain (La Vanguardia), Sweden (ETC), Poland (Polish Press Agency), Russia (Life), Slovenia (Delo), Bulgaria (Novinite), Brazil (Galileu), and Latin America (infosurhoy). Featured on science websites including Popular Science (with interview), Wildlife.org (with interview), Futurity, IFL Science, ZME Science, SciTech Daily, Muy Interesante (Spain), and the NSF News site. Interview for the climate magazine The Grist. Interview on podcast The Climate Pod. TV interview on KVOA (Tucson; lead story). Radio interview on BBC World Service.*
+* *Recommended in Faculty1000.* 
+
+* *Featured in stories on several news and science related sites. These include news outlets in the U.S. (e.g. CNN, USA Today, CBS News, Yahoo News, AOL, MSN, Fox News, New York Post, New York Daily News, Arizona Daily Star [with interview], Miami Herald, Kansas City Star, Indianapolis Star, Sacramento Bee, Charlotte Observer, and Detroit Free Press, Salt Lake Tribune), and other countries including the United Kingdom (Daily Mail, The Independent, The London Economic, The Irish Sun, Metro), India (Tribune India, India Times Post, Outlook India, The Week, Canindia, ProKerala), Australia (10Daily), France (Slate, Free, Futura-Science), Italy (Galileo), Spain (La Vanguardia), Sweden (ETC), Poland (Polish Press Agency), Russia (Life), Slovenia (Delo), Bulgaria (Novinite), Brazil (Galileu), and Latin America (infosurhoy). Featured on science websites including Popular Science (with interview), Wildlife.org (with interview), Futurity, IFL Science, ZME Science, SciTech Daily, Muy Interesante (Spain), and the NSF News site. Interview for the climate magazine The Grist. Interview on podcast The Climate Pod. TV interview on KVOA (Tucson; lead story). Radio interview on BBC World Service.*
 
 >2019
 
