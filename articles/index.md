@@ -19,6 +19,8 @@ share: false
 
 (20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) 
 
+<div data-badge-popover="right" data-badge-type="2" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 * *Recommended in Faculty1000.* 
 
@@ -29,7 +31,7 @@ share: false
 (19.) **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across
 the Animal Tree of Life. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf)  
 
-</script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63638663"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63638663"></div>
 
 
 * *Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). Radio interview on [Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).*
