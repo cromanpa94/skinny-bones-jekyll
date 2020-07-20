@@ -17,7 +17,7 @@ share: false
 
 >2020
 
-(20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) 
+(20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) 
 
   <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="75751186"></div>
 
@@ -29,12 +29,12 @@ share: false
 >2019
 
 (19.) **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across
-the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf)  
+the Animal Tree of Life. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf)  
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63638663"></div>
 
 
-* *Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). Radio interview on [Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).
+* *Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). Radio interview on [Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).*
 
 >2018
 
@@ -45,11 +45,11 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 (17.) Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. [PDF](<2018_Garcia-Aldrete et al 2018_Psocoptera_Colombia.pdf>)
 
-(16.) **Cristian Román-Palacios**, and John J. Wiens. 2018. *The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations*. Journal of Biogeography, 45:1701–1702. [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf)
+(16.) **Cristian Román-Palacios**, and John J. Wiens. 2018. *The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations. Journal of Biogeography, 45:1701–1702. [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf)
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="44162724"></div>
 
-* *Highlighted as Editor’s Choice.
+* *Highlighted as Editor’s Choice.*
 
 (15.) **Cristian Román-Palacios**, Rosario Castañeda, and Jose Julian Tavera. 2018. *When did *Anolis* lizards diverge? A comparison of multiple dating strategies*. Molecular Phylogenetics and Evolution, 127:655-668. [PDF](2018_Roman-Palacios_et_al_Anolis.pdf)
 
