@@ -19,10 +19,7 @@ share: false
 
 (20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) 
 
-  <p align="center">
-  <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="75751186"></div>
-</p>
-
+  <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="75751186"></div>
 
 
 * *Recommended in Faculty1000.* 
@@ -37,7 +34,7 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="63638663"></div>
 
 
-*Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). Radio interview on [Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).
+* *Featured in a news story in [Science](https://www.sciencemag.org/news/2019/08/world-s-first-animal-was-probably-carnivore), [Södermanlands Nyheter](Sodermanlands_Roman.pdf), and other science-related websites ([phys.org](https://phys.org/news/2019-08-paleozoic-diet-animals.html), [Science Daily](https://www.sciencedaily.com/releases/2019/08/190822165028.htm)) and [UA News](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat). Radio interview on [Arizona Science](https://uanews.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat).
 
 >2018
 
@@ -52,7 +49,7 @@ the Animal Tree of Life*. Evolution Letters, 4:339–347. [PDF](2019_Roman-Palac
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="44162724"></div>
 
-*Highlighted as Editor’s Choice.
+* *Highlighted as Editor’s Choice.
 
 (15.) **Cristian Román-Palacios**, Rosario Castañeda, and Jose Julian Tavera. 2018. *When did *Anolis* lizards diverge? A comparison of multiple dating strategies*. Molecular Phylogenetics and Evolution, 127:655-668. [PDF](2018_Roman-Palacios_et_al_Anolis.pdf)
 
