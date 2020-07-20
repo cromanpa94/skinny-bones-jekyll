@@ -19,11 +19,9 @@ share: false
 
 (20) **Cristian Román-Palacios**., and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) 
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"> <div class='altmetric-embed' data-doi='10.1038/nature.2012.9872'></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"> 
 
-
-<div class='altmetric-embed' data-doi='10.1038/nature.2012.9872'></div>
-  <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="75751186"></div>
+<div data-badge-popover="right" data-badge-type="2" data-doi="10.1038/nature.2014.14583" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 
 * *Recommended in Faculty1000.* 
