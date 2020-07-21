@@ -40,7 +40,7 @@ Below are the answers to three short questions from Teaching Course Evaluations 
 
 
 
-## What did you especially like about this section?
+##### What did you especially like about this section?
 
 | Year | Comment |
 |:-:|:-:|
@@ -73,7 +73,7 @@ Below are the answers to three short questions from Teaching Course Evaluations 
 | 2019 | The TA is amazing |
 
 
-## What suggestions would you make to improve this section?
+##### What suggestions would you make to improve this section?
 
 | Year | Comment |
 |:-:|:-:|
@@ -87,7 +87,7 @@ Below are the answers to three short questions from Teaching Course Evaluations 
 
 
 
-## Please write any additional comments you may have.
+##### Please write any additional comments you may have.
 
 | Year | Comment |
 |:-:|:-:|
