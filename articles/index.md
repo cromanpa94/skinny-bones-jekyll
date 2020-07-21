@@ -15,14 +15,14 @@ share: false
   
 ## Peer-reviewed articles
 
-| # | Year | Paper | Reprint |
+| # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
 | 20 | 2020 | **Cristian Román-Palacios**, and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. | [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) |
-| 19 | 2019 | **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across the Animal Tree of Life. Evolution Letters, 4:339–347. | [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf) |
+| 19 | 2019 | **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across the Animal Tree of Life*. Evolution Letters, 4:339–347. | [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf) |
 | 18 | 2018 | Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. | [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf) |
 | 17 | 2018 | Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. | [PDF](<2018_Garcia-Aldrete et al 2018_Psocoptera_Colombia.pdf>) |
-| 16 | 2018 | **Cristian Román-Palacios**, and John J. Wiens. 2018. *The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations. Journal of Biogeography, 45:1701–1702. | [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf) |
-| 15 | 2018 | **Cristian Román-Palacios**, Rosario Castañeda, and Jose Julian Tavera. 2018. *When did *Anolis* lizards diverge? A comparison of multiple dating strategies*. Molecular Phylogenetics and Evolution, 127:655-668. | [PDF](2018_Roman-Palacios_et_al_Anolis.pdf) |
+| 16 | 2018 | **Cristian Román-Palacios**, and John J. Wiens. 2018. *The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations*. Journal of Biogeography, 45:1701–1702. | [PDF](2018_Roman_Palacios_Wiens_JBI_2018.pdf) |
+| 15 | 2018 | **Cristian Román-Palacios**, Rosario Castañeda, and Jose Julian Tavera. 2018. *When did* Anolis *lizards diverge? A comparison of multiple dating strategies*. Molecular Phylogenetics and Evolution, 127:655-668. | [PDF](2018_Roman-Palacios_et_al_Anolis.pdf) |
 | 14 | 2018 | **Cristian Román-P**, Jakob Damgaard, Cheng, Lanna, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir and Herbert Zettle. 2018. *Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae)*. Journal of Insect Systematics and Evolution,  51:139–240. | [PDF](2018_Roman-Palacios_et_al._Halobatinae.pdf) |
 | 13 | 2018 | **Cristian Román-Palacios**, and Alejandro Valencia-Zuleta. 2018. *On the Data Deficient amphibians from Colombia*. Revista de Biologia Tropical, 66:1272-1281. | [PDF](<2018_Roman-Palacios_&_Valencia-Zuleta 2018_Colombian_DD.pdf>) |
 | 12 | 2017 | **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Ranulfo Gonzalez-Obando. 2017. *On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography*. Boletin del Museo de Entomologia de la Universidad del Valle, 17:37-46. | [PDF](<2017_Roman-Palacios et al. 2017_Psocidae_Divergence.pdf>) |
@@ -41,11 +41,11 @@ share: false
 
 ## Accepted, preprints, and in-progress manuscripts
 
-| # | Year | Paper | Status | PDF |
-|:-:|:-:|-|-|:-:|
+| # | Year | Paper | Status | Link |
+|:-:|:-:|:-:|:-:|:-:|
 | 11 | 2020 | **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Michael S. Barker. *Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae*. Proceedings of the Royal Society of London. | In press | [Preprint](https://www.biorxiv.org/content/10.1101/717306v1) |
-| 10 |  | Elizabeth C. Miller, and **Cristian Román-Palacios**. *Evolutionary time explains the global distribution of freshwater fish diversity*. Positive reviews received received from Global Ecology and Biogeography. | Favorable reviews | [Link](https://www.biorxiv.org/content/10.1101/668079v1.abstract) |
-| 9 |  | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. Goniurosaurus gezhi, *a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)*. Positive reviews received received from Zootaxa. | Favorable reviews |  |
+| 10 |  | Elizabeth C. Miller, and **Cristian Román-Palacios**. *Evolutionary time explains the global distribution of freshwater fish diversity*. Positive reviews received from Global Ecology and Biogeography. | Favorable reviews | [Link](https://www.biorxiv.org/content/10.1101/668079v1.abstract) |
+| 9 |  | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. Goniurosaurus gezhi, *a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)*. Positive reviews received from Zootaxa. | Favorable reviews |  |
 | 8 |  | **Cristian Román-Palacios**, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. *Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants*. To be presented received at Botany2020 and submitted to Evolution. | In progress |  |
 | 7 |  | Valentina Sarria-Rodríguez, Ranulfo Gonzalez-Obando, Nelson Rivera, Heiber Cardenas-Henao and **Cristian Román-Palacios**.  ^Holarctic lineages cannot not inform diversity and evolution in Tropics – the barklice family Psocidae as a case study*. Target journal: Molecular Phylogenetics and Evolution. | In progress |  |
 | 6 |  | **Cristian Román-Palacios**, and Alejandro Valencia-Zuleta. *Hybridization increases species richness by triggering diversification rates in a global radiation of passerine birds*. Target journal Evolution. | In progress |  |
