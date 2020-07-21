@@ -71,5 +71,5 @@ I'm always open to collaborations – either on any of the projects below or on
 
 | # | Year | Document | Link |
 |:-:|:-:|:-:|:-:|
-| **1** | 2020 | **By Gemma Conroy**. *Front line scientists call for mental health support in the wake of catastrophic ecosystem loss*. Nature, 10.1038/d41586-019-00845-z | [Link](https://www.natureindex.com/news-blog/more-help-needed-for-scientists-on-the-front-line-of-ecosystem-loss) |
+| **1** | 2020 | **By Gemma Conroy**. *Front line scientists call for mental health support in the wake of catastrophic ecosystem loss*. Nature index | [Link](https://www.natureindex.com/news-blog/more-help-needed-for-scientists-on-the-front-line-of-ecosystem-loss) |
 
