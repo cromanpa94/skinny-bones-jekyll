@@ -41,7 +41,7 @@ share: false
 
 ## Accepted, preprints, and in-progress manuscripts
 
-I'm always open to collaborations – either on the projects listed below or on new ones! [Contact me](/contact/) ! :)
+I'm always open to collaborations – either on the projects listed below or on new ones! [Contact me](/cromanpa/contact/) ! :)
 
 | # | Year | Paper | Status | Link |
 |:-:|:-:|:-:|:-:|:-:|
