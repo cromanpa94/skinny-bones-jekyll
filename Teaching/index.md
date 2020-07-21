@@ -39,6 +39,9 @@ I will include more details on this regard soon!
 Below are the answers to three short questions from Teaching Course Evaluations for multiple courses I taught between 2016 and 2019. No TCEs were available during 2020 given COVID pandemic. I'm including any comments concerning with my performance as instructor. *No comments were filtered out*  and student's identities are completely anonymous (even for me!). *Please note that I taught my first couse in August 2016 which was also my first time speaking publictly in English. I moved to the US roughly one month before*
 
 
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->
 
 #### What did you especially like about this section?
 
