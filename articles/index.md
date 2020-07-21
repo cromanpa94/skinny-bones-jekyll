@@ -17,7 +17,7 @@ share: false
 
 | # | Year | Paper | Reprint |
 |:-:|:-:|:-:|:-:|
-| 20 | 2020 | **Cristian Román-Palacios**, and John J. Wiens. 2020. Recent responses to climate change reveal the drivers of species extinction and survival. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. | [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) |
+| 20 | 2020 | **Cristian Román-Palacios**, and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. | [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) |
 | 19 | 2019 | **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across the Animal Tree of Life. Evolution Letters, 4:339–347. | [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf) |
 | 18 | 2018 | Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. | [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf) |
 | 17 | 2018 | Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, **Cristian Román-Palacios**, and Ranulfo Obando-Obando. 2018. *Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families*. Dugesiana, 25:77-103. | [PDF](<2018_Garcia-Aldrete et al 2018_Psocoptera_Colombia.pdf>) |
@@ -53,14 +53,14 @@ share: false
 | 4 |  | **Cristian Román-Palacios**, and Aradhna Tripati. 2020 (in progress). A bayesian linear mixed model on the calibration of the ‘clumped isotope’ paleothermomether. | In progress |  |
 | 3 |  | Chinmay Hemant Joshi, **Cristian Román-Palacios**, and John J. Wiens. 2020 (in progress). Haplodiploidy and the evolution of eusociality across insects. | In progress |  |
 | 2 |  | Michel S. Barker, Michael Thomas William McKibben, Zheng Li, **Cristian Román-Palacios**, Jacob B Landis, and Douglas Edward Soltis. 2020 (in progress). dating 1KP WGDs across the plant Tree of Life. | In progress |  |
-| 1 | 2015 | **Cristian Román-P** and Daniela Moraga Lopez. Rebuilding the evolutionary and ecological history of the sea skaters Halobates spp. (Heteroptera: Gerridae). PeerJ Preprint, page 3:e1416, 2015. | Preprint available | [link](https://peerj.com/preprints/1164/) |
+| 1 | 2015 | **Cristian Román-P** and Daniela Moraga Lopez. Rebuilding the evolutionary and ecological history of the sea skaters Halobates spp. (Heteroptera: Gerridae). PeerJ Preprint, page 3:e1416, 2015. | Preprint available | [Link](https://peerj.com/preprints/1164/) |
 
 
 ## Non-peer-reviewed articles
 
 | # | Document | Link |
 |:-:|:-:|:-:|
-| 3 | **Cristian Román-Palacios**. 2019. Five tips for nailing your US-based graduate-school applications. Nature, [10.1038/d41586-019-00845-z](https://www.nature.com/articles/d41586-019-00845-z) | [Link](https://www.nature.com/articles/d41586-019-00845-z) |
+| 3 | **Cristian Román-Palacios**. 2019. Five tips for nailing your US-based graduate-school applications. Nature, 10.1038/d41586-019-00845-z | [Link](https://www.nature.com/articles/d41586-019-00845-z) |
 | 2 | **Cristian Román-Palacios**. 2017. P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26. | [PDF](Roman-Palacios_2017_stat.pdf) |
 | 1 | **Cristian Román-Palacios**. 2016. ¿Conservan las áreas protegidas la biodiversidad en Colombia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82. | [PDF](Roman-Palacios_2016_Areas_Protegidas.pdf) |
 
