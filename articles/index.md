@@ -41,7 +41,7 @@ share: false
 
 ## Accepted, preprints, and in-progress manuscripts
 
-I'm always open to collaborations – either on any of the projects below or on new ones![Please get in touch](mailto:cromanpa94@email.arizona.edu)! :blush:
+I'm always open to collaborations – either on any of the projects below or on new ones![Please get in touch](/Contact/index.md)! :)
 
 | # | Year | Paper | Status | Link |
 |:-:|:-:|:-:|:-:|:-:|
