@@ -62,7 +62,7 @@ share: true
 
 ## Additional comments
 
-| Year | Additional comments |
+| Year | Comment |
 |:-:|:-:|
 | 2016 | I liked my instructor, but I did not enjoy the class |
 | 2016 | the teacher was great and the overall structure of the class was great as well |
