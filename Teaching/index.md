@@ -13,6 +13,11 @@ share: true
 ---
 
 
+Below are Teaching Course Evaluations of courses I taught between 2016 and 2019. No TCEs were available during 2020 given COVID pandemic. I'm including any comments concerning with my performance as instructor. *No comments were filtered out*  and student's identities are completely anonymous. 
+
+*Please note that I first moved to the US in 2016 (July). I taught my first couse in August of the same year, which was my first time teaching an undergraduate-level course and speaking publictly in English*
+
+
 ## What did you like?
 
 | Year | Comment |
