@@ -38,25 +38,6 @@ share: false
 | 2 | 2014 | **Cristian Román-Palacios**, Alfonso N. García Aldrete, and Ranulfo Gonzalez-Obando. 2014. Elaphopsocoides, a new genus of Psocidae (Psocodea: ’Psocoptera’) from Valle del Cauca, Colombia. Zootaxa, 3873:93–100. | [PDF](2014_Roman-P_et_al_2014_Elaphopsocus.pdf) |
 | 1 | 2014 | **Cristian Román-Palacios**, Cesar Román Valencia, and Donald C. Taphorn. 2014. *Trophic and reproductive ecology of a neotropical characid fish Hemibrycon brevispini (Teleostei: Characiformes)*. Caldasia, 36:289–304. | [PDF](2015_Roman-Palacios_et_al_2015_Brevi.pdf) |
 
-## Submitted manuscripts
----
-
-(4.) **Cristian Román-Palacios**, and John J. Wiens. 2019. *Recent responses to climate change reveal
-the drivers of species extinction and survival* (under revision after favorable reviews in PNAS).
-
-(3.) Alison Harrington*, Tania Hernandez-Hernandez*, Coline C. Jaworski*, Elizabeth C. Miller*,
-**Cristian Román-Palacios***, and John J. Wiens*. 2019. How does speciation vary across the
-Tree of Life?
-
-(2.) Elizabeth C. Miller, and **Cristian Román-Palacios** 2019. Evolutionary time explains the global
-distribution of freshwater fish diversity. 
-
-(1.) **Cristian Román-Palacios**, Yherson F. Molina, and Michael S. Barker. 2019. Polyploidy increases
-overall diversity despite higher turnover than diploids in the Brassicaceae.
-
-<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="64235771"></div>
-
-
 
 ## Accepted, preprints, and in-progress manuscripts
 
