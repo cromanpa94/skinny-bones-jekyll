@@ -20,6 +20,17 @@ I will include more details on this regard soon!
 
 ## Teaching experience
 
+| # | Semester | Course | Role | Students |
+|-|-|:-:|:-:|:-:|
+| **9** | 2020-Summer | Genetics (ECOL-320) | Mostly grading | 50 |
+| **8** | 2020-Spring | Introductory Biology (ECOL-182L) | Main instructor | 48 |
+| **7** | 2019-Fall | Marine Biology (ECOL-170) | Mostly grading | >100 |
+| **6** | 2019-Spring | Introductory Biology (ECOL-182L) | Main instructor | 48 |
+| **5** | 2018-Fall | Marine Biology (ECOL-170) | Mostly grading | >100 |
+| **4** | 2018-Spring | Introductory Biology (ECOL-182L) | Main instructor | 48 |
+| **3** | 2017-Fall - | Marine Biology (ECOL-170) | Mostly grading | >100 |
+| **2** | 2017-Spring | Introductory Biology (ECOL-182L) | Main instructor | 48 |
+| **1** | 2016-Fall | Introductory Biology (ECOL-182L) | Main instructor | 48 |
 
 
 ## Student evaluations
