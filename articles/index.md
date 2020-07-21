@@ -42,9 +42,9 @@ share: false
 ## Accepted, preprints, and in-progress manuscripts
 
 | # | Year | Paper | Status | PDF |
-|:-:|:-:|-|-|-|
-| 11 | 2020 | ****Cristian Román-Palacios****, Yherson Franchesco Molina-Henao, and Michael S. Barker (2020, in press). Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae. Proceedings of the Royal Society of London. | In press | [preprint](https://www.biorxiv.org/content/10.1101/717306v1) |
-| 10 |  | Elizabeth C. Miller, and **Cristian Román-Palacios**. 2020 (under review). Evolutionary time explains the global distribution of freshwater fish diversity. bioRxiv, 668079 (positive reviews received received from Global Ecology and Biogeography, Jun 2020). | Favorable reviews | [link](https://www.biorxiv.org/content/10.1101/668079v1.abstract) |
+|:-:|:-:|-|-|:-:|
+| 11 | 2020 | ****Cristian Román-Palacios****, Yherson Franchesco Molina-Henao, and Michael S. Barker (2020, in press). Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae. Proceedings of the Royal Society of London. | In press | [Preprint](https://www.biorxiv.org/content/10.1101/717306v1) |
+| 10 |  | Elizabeth C. Miller, and **Cristian Román-Palacios**. 2020 (under review). Evolutionary time explains the global distribution of freshwater fish diversity. bioRxiv, 668079 (positive reviews received received from Global Ecology and Biogeography, Jun 2020). | Favorable reviews | [Link](https://www.biorxiv.org/content/10.1101/668079v1.abstract) |
 | 9 |  | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. 2020 (under review). Goniurosaurus gezhi, a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae) (positive reviews received received from Zootaxa, Jun 2020). | Favorable reviews |  |
 | 8 |  | **Cristian Román-Palacios**, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. 2020 (in progress). Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants. To be presented received at Botany2020 and submitted to Evolution. | In progress |  |
 | 7 |  | Valentina Sarria-Rodríguez, Ranulfo Gonzalez-Obando, Nelson Rivera, Heiber Cardenas-Henao and **Cristian Román-Palacios**. 2020 (in progress). Holarctic lineages cannot not inform diversity and evolution in Tropics – the barklice family Psocidae as a case study (target journal: Molecular Phylogenetics and Evolution). | In progress |  |
@@ -59,7 +59,7 @@ share: false
 ## Non-peer-reviewed articles
 
 | # | Document | Link |
-|-|-|-|
+|:-:|:-:|:-:|
 | 3 | **Cristian Román-Palacios**. 2019. Five tips for nailing your US-based graduate-school applications. Nature, [10.1038/d41586-019-00845-z](https://www.nature.com/articles/d41586-019-00845-z) | [Link](https://www.nature.com/articles/d41586-019-00845-z) |
 | 2 | **Cristian Román-Palacios**. 2017. P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26. | [PDF](Roman-Palacios_2017_stat.pdf) |
 | 1 | **Cristian Román-Palacios**. 2016. ¿Conservan las áreas protegidas la biodiversidad en Colombia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82. | [PDF](Roman-Palacios_2016_Areas_Protegidas.pdf) |
