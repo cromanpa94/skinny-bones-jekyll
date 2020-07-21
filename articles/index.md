@@ -41,7 +41,7 @@ share: false
 
 ## Accepted, preprints, and in-progress manuscripts
 
-I'm always open to collaborations – either on any of the projects below or on new ones![Please get in touch](/Contact/index.md)! :)
+I'm always open to collaborations – either on the projects listed below or on new ones! [Contact me](/Contact/index.md) ! :)
 
 | # | Year | Paper | Status | Link |
 |:-:|:-:|:-:|:-:|:-:|
