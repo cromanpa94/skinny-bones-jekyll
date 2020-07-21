@@ -13,9 +13,20 @@ share: true
 ---
 
 
-Below are Teaching Course Evaluations of courses I taught between 2016 and 2019. No TCEs were available during 2020 given COVID pandemic. I'm including any comments concerning with my performance as instructor. *No comments were filtered out*  and student's identities are completely anonymous (even for me!). 
+## Teaching phylosophy
 
-*Please note that I first moved to the US in 2016 (July). I taught my first couse in August of the same year, which was my first time teaching an undergraduate-level course and speaking publictly in English*
+I will include more details on this regard soon!
+
+
+## Teaching experience
+
+
+
+## Student evaluations
+
+
+Below are the answers to three short questions from Teaching Course Evaluations for multiple courses I taught between 2016 and 2019. No TCEs were available during 2020 given COVID pandemic. I'm including any comments concerning with my performance as instructor. *No comments were filtered out*  and student's identities are completely anonymous (even for me!). *Please note that I taught my first couse in August 2016 which was also my first time speaking publictly in English. I moved to the US roughly one month before*
+
 
 
 ## What did you especially like about this section?
