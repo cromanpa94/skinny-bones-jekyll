@@ -15,8 +15,10 @@ share: false
   
 ## Peer-reviewed articles
 
+
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
+| **21** | 2020 | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, and Zhu-Qing He. Goniurosaurus gezhi, *a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)*. Zootaxa | [PDF](2020_Xiao_Yuetal.pdf) |
 | **20** | 2020 | **Cristian Román-Palacios**, and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. | [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) |
 | **19** | 2019 | **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across the Animal Tree of Life*. Evolution Letters, 4:339–347. | [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf) |
 | **18** | 2018 | Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. | [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf) |
@@ -45,10 +47,9 @@ I'm always open to collaborations – either on the projects listed below or on
 
 | # | Year | Paper | Status | Link |
 |:-:|:-:|:-:|:-:|:-:|
-| **11** | 2020 | **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Michael S. Barker. *Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae*. Proceedings of the Royal Society of London. | In press | [Preprint](https://www.biorxiv.org/content/10.1101/717306v1) |
-| **10** | 2015 | **Cristian Román-P** and Daniela Moraga Lopez. *Rebuilding the evolutionary and ecological history of the sea skaters* Halobates *spp. (Heteroptera: Gerridae)*. PeerJ Preprint, page 3:e1416, 2015. | Preprint available | [Preprint](https://peerj.com/preprints/1164/) |
-| **9** |  | Elizabeth C. Miller, and **Cristian Román-Palacios**. *Evolutionary time explains the global distribution of freshwater fish diversity*. Positive reviews received from Global Ecology and Biogeography. | Favorable reviews | [Preprint](https://www.biorxiv.org/content/10.1101/668079v1.abstract) |
-| **8** |  | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, and Zhu-Qing He. Goniurosaurus gezhi, *a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)*. Positive reviews received from Zootaxa. | Favorable reviews |  |
+| **10** | 2020 | **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Michael S. Barker. *Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae*. Proceedings of the Royal Society of London. | In press | [Preprint](https://www.biorxiv.org/content/10.1101/717306v1) |
+| **9** | 2015 | **Cristian Román-P** and Daniela Moraga Lopez. *Rebuilding the evolutionary and ecological history of the sea skaters* Halobates *spp. (Heteroptera: Gerridae)*. PeerJ Preprint, page 3:e1416, 2015. | Preprint available | [Preprint](https://peerj.com/preprints/1164/) |
+| **8** |  | Elizabeth C. Miller, and **Cristian Román-Palacios**. *Evolutionary time explains the global distribution of freshwater fish diversity*. Positive reviews received from Global Ecology and Biogeography. | Favorable reviews | [Preprint](https://www.biorxiv.org/content/10.1101/668079v1.abstract) |
 | **7** |  | **Cristian Román-Palacios**, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. *Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants*. To be presented received at Botany2020 and submitted to Evolution. | In progress |  |
 | **6** |  | Valentina Sarria-Rodríguez, Ranulfo Gonzalez-Obando, Nelson Rivera, Heiber Cardenas-Henao and **Cristian Román-Palacios**.  *Holarctic lineages cannot not inform diversity and evolution in Tropics – the barklice family Psocidae as a case study*. Target journal: Molecular Phylogenetics and Evolution. | In progress |  |
 | **5** |  | **Cristian Román-Palacios**, and Alejandro Valencia-Zuleta. *Hybridization increases species richness by triggering diversification rates in a global radiation of passerine birds*. Target journal: Evolution. | In progress |  |
