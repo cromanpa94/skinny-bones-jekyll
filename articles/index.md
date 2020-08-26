@@ -18,7 +18,6 @@ share: false
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
-| **21** | 2020 | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, and Zhu-Qing He. Goniurosaurus gezhi, *a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)*. Zootaxa | [PDF](2020_Xiao_Yuetal.pdf) |
 | **20** | 2020 | **Cristian Román-Palacios**, and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. | [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) |
 | **19** | 2019 | **Cristian Román-Palacios**, Joshua Scholl, and John J. Wiens. 2019. *Evolution of diet across the Animal Tree of Life*. Evolution Letters, 4:339–347. | [PDF](2019_Roman-Palacios_et_al_EvoLett_2019.pdf) |
 | **18** | 2018 | Andreas L. Meyer, **Cristian Román-Palacios**, and John J. Wiens. 2018. *BAMM gives misleading results in simulated and empirical datasets*. Evolution, 72:2257–2266. | [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf) |
