@@ -18,7 +18,7 @@ share: false
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
-| **23** | 2021 | Elizabeth C. Miller and **Cristian Román-Palacios**. Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity. Global Ecology and Biogeography, 4852:211–222 | [PDF](2021_MillerRoman_freshwater.pdf) |
+| **23** | 2021 | Elizabeth C. Miller and **Cristian Román-Palacios**. Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity. Global Ecology and Biogeography, Early view | [PDF](2021_MillerRoman_freshwater.pdf) |
 | **22** | 2020 | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, and Zhu-Qing He. Goniurosaurus gezhi, *a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)*. Zootaxa, 4852:211–222 | [PDF](ZhuEtAl2020.pdf) |
 | **21** | 2020 | **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Michael S. Barker. *Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae*. Proceedings of the Royal Society B, 287:20200962. | [PDF](Roman-Palaciosetal_Brassicaceae_2020.pdf) |
 | **20** | 2020 | **Cristian Román-Palacios**, and John J. Wiens. 2020. *Recent responses to climate change reveal the drivers of species extinction and survival*. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217. | [PDF](2020_Roman-Palacios_Wiens_PNAS.pdf) |
