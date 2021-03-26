@@ -18,8 +18,7 @@ share: false
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
-
-| **24** | 2021 | Hernández-Hernández, Tania, Elizabeth C. Miller, Cristian Román-Palacios, and John J. Wiens. 2021. Speciation across the Tree of Life. Biological Reviews, Early View| [PDF](HernandezHernandezEtAl2021.pdf) |
+| **24** | 2021 | Hernández-Hernández, Tania, Elizabeth C. Miller, **Cristian Román-Palacios**, and John J. Wiens. 2021. Speciation across the Tree of Life. Biological Reviews, Early View| [PDF](HernandezHernandezEtAl2021.pdf) |
 | **23** | 2021 | Elizabeth C. Miller and **Cristian Román-Palacios**. Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity. Global Ecology and Biogeography, Early view | [PDF](2021_MillerRoman_freshwater.pdf) |
 | **22** | 2020 | Xiao-Yu Zhu, Guang-Yu Chen, **Cristian Román-Palacios**, Zheng Li, and Zhu-Qing He. Goniurosaurus gezhi, *a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)*. Zootaxa, 4852:211–222 | [PDF](ZhuEtAl2020.pdf) |
 | **21** | 2020 | **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Michael S. Barker. *Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae*. Proceedings of the Royal Society B, 287:20200962. | [PDF](Roman-Palaciosetal_Brassicaceae_2020.pdf) |
