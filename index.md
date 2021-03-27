@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Research</h2>
-  <p class="post-excerpt">I use statistics and bioinformatics to address questions at the interface between ecology and evolution. My research interests are generally related to phylogenetics, convervation biology, and the effects of climate change on biodiversity at different spatial and taxonomic scales! </p>
+  <p class="post-excerpt">I use statistics and bioinformatics to address questions at the interface between ecology and evolution. My research interests are generally related to phylogenetics, systematics, convervation biology, and the effects of climate change on biodiversity at different spatial and taxonomic scales! </p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -19,13 +19,13 @@ image:
 
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Affiliations</h2>
-  <p class="post-excerpt">I am a current Ph.D. candidate at the department of Ecology and Evolutionary Biology (University of Arizona) working with <a href="https://www.wienslab.com/Home.html">John J. Wiens</a>. I also collaborate with three research groups in Colombia: <a href="https://paginaiuq.wordpress.com">Biodiversidad animal</a>, <a href="http://entomologia.univalle.edu.co">GIE</a>, and <a href="https://sites.google.com/a/correounivalle.edu.co/seyba/">SEyBA</a>.</p>
+  <p class="post-excerpt">I am a current postdoctoral reseaeche working with <a href="http://www.kumarlab.net/">Sudhir Kumar</a> and <a href="http://www.hedgeslab.org/">Blair Hedges</a>. I'm also affiliated to UCLA, working with <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>. I also collaborate with three research groups in Colombia: <a href="https://paginaiuq.wordpress.com">Biodiversidad animal</a>, <a href="http://entomologia.univalle.edu.co">GIE</a>, and <a href="https://sites.google.com/a/correounivalle.edu.co/seyba/">SEyBA</a>.</p>
 </div><!-- /.tile -->
 
 
 
 <div class="tile">
-  <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Who has visited my website?</h2>
+  <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Recent visitors!</h2>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=OyIN&d=ipkSndE8_XFxOZZl00Ta_2fSaEztt1OMQcXl1Lh2LTQ"></script>
 
 </div><!-- /.tile -->
