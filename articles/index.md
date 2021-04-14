@@ -74,5 +74,5 @@ I'm always open to collaborations – either on the projects listed below or on
 | **1** | 2020 | **By Gemma Conroy**. *Front line scientists call for mental health support in the wake of catastrophic ecosystem loss*. Nature index | [Link](https://www.natureindex.com/news-blog/more-help-needed-for-scientists-on-the-front-line-of-ecosystem-loss) |
 
 
-### Copyright Notice:
+### Copyright Notice
 These documents are protected by various copyright laws. However, I may distribute copies to individuals for personal, research use. Your click on any of the PDF links above constitutes your request for a personal copy of the linked article and my delivery of a personal copy. Any other use or distribution is prohibited. These are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis.
