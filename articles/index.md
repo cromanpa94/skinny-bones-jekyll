@@ -18,10 +18,6 @@ share: false
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
-
- \textbf{Frontiers in Earth Science, section Geochemistry}, doi:10.3389/feart.2021.641760.
-
-
 | **25** | 2021 | Robert N Ulrich, Maxence Guillermic, Julia Campbell, Abbas Hakim, Rachel Han, Shayleen Singh, Justin D Stewart, **Cristian Román-Palacios**, Hannah M Carroll, Ilian DeCorte, Rosaleen E Gilmore, Whitney Doss, Aradhna Tripati, Justin B Ries, Robert A Eagle. 2021. *Patterns of element incorporation in calcium carbonate biominerals recapitulate phylogeny for a diverse range of marine calcifiers.* Frontiers in Earth Science, section Geochemistry, 9:641760| [PDF](UlrichEtAl2021.pdf) |
 | **24** | 2021 | Tania Hernández-Hernández, Elizabeth C. Miller, **Cristian Román-Palacios**, and John J. Wiens. 2021. Speciation across the Tree of Life. Biological Reviews, Early View| [PDF](HernandezHernandezEtAl2021.pdf) |
 | **23** | 2021 | Elizabeth C. Miller and **Cristian Román-Palacios**. Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity. Global Ecology and Biogeography, Early view | [PDF](2021_MillerRoman_freshwater.pdf) |
