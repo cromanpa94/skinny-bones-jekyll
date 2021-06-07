@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Affiliations</h2>
-  <p class="post-excerpt">I am a current postdoctoral researcher working with <a href="http://www.kumarlab.net/">Sudhir Kumar</a> and <a href="http://www.hedgeslab.org/">Blair Hedges</a>. I'm also affiliated to UCLA, working as staff researcher at <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab. I also collaborate with three research groups in Colombia: <a href="https://paginaiuq.wordpress.com">Biodiversidad animal</a>, <a href="https://sites.google.com/correounivalle.edu.co/gie/inicio?authuser=0">GIE</a>, and <a href="https://sites.google.com/a/correounivalle.edu.co/seyba/">SEyBA</a>.</p>
+  <p class="post-excerpt"> I'm working as staff researcher at <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab. I also collaborate with three research groups in Colombia: <a href="https://paginaiuq.wordpress.com">Biodiversidad animal</a>, <a href="https://sites.google.com/correounivalle.edu.co/gie/inicio?authuser=0">GIE</a>, and <a href="https://sites.google.com/a/correounivalle.edu.co/seyba/">SEyBA</a>.</p>
 </div><!-- /.tile -->
 
 
