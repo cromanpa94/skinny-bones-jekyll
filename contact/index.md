@@ -14,10 +14,8 @@ ads: false
 <p align="center">
   <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br><br>
   <b>Cristian Román-Palacios</b><br>
-  Postdoctoral researcher  <br>
-  Center for Biodiversity Temple University<br>  
-  Temple University  <br>  
-  1925 N. 12th Street<br>  
+  Staff researcher  <br>
+  University of California, Los Angeles<br>  
   Philadelphia, PA<br>  
   Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a><br>  
   Email: <a href="mailto:cromanpa94@email.arizona.edu">cromanpa94@email.arizona.edu</a><br>  
