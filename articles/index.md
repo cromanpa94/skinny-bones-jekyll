@@ -18,6 +18,7 @@ share: false
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
+| **26** | 2021 | **Cristian Román-Palacios**, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. *Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants*. Journal of Evolutionary Biology, 10.1111/jeb.13884. | (PDF soon) |
 | **25** | 2021 | Robert N Ulrich, Maxence Guillermic, Julia Campbell, Abbas Hakim, Rachel Han, Shayleen Singh, Justin D Stewart, **Cristian Román-Palacios**, Hannah M Carroll, Ilian DeCorte, Rosaleen E Gilmore, Whitney Doss, Aradhna Tripati, Justin B Ries, Robert A Eagle. 2021. *Patterns of element incorporation in calcium carbonate biominerals recapitulate phylogeny for a diverse range of marine calcifiers.* Frontiers in Earth Science, section Geochemistry, 9:641760| [PDF](UlrichEtAl2021.pdf) |
 | **24** | 2021 | Tania Hernández-Hernández, Elizabeth C. Miller, **Cristian Román-Palacios**, and John J. Wiens. 2021. Speciation across the Tree of Life. Biological Reviews, Early View| [PDF](HernandezHernandezEtAl2021.pdf) |
 | **23** | 2021 | Elizabeth C. Miller and **Cristian Román-Palacios**. Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity. Global Ecology and Biogeography, 30:749-763.| [PDF](2021_MillerRoman_freshwater.pdf) |
@@ -51,10 +52,8 @@ I'm always open to collaborations – either on the projects listed below or on
 
 | # | Year | Paper | Status | Link |
 |:-:|:-:|:-:|:-:|:-:|
-| **7** | 2015 | **Cristian Román-P** and Daniela Moraga Lopez. *Rebuilding the evolutionary and ecological history of the sea skaters* Halobates *spp. (Heteroptera: Gerridae)*. PeerJ Preprint, page 3:e1416, 2015. | Preprint available | [Preprint](https://peerj.com/preprints/1164/) |
-| **6** |  | **Cristian Román-Palacios**, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. *Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants*. To be presented received at Botany2020 and submitted to Evolution. | In progress |  |
-| **5** |  | Valentina Sarria-Rodríguez, Ranulfo Gonzalez-Obando, Nelson Rivera, Heiber Cardenas-Henao and **Cristian Román-Palacios**.  *Holarctic lineages cannot not inform diversity and evolution in Tropics – the barklice family Psocidae as a case study*. Target journal: Molecular Phylogenetics and Evolution. | Under review |  |
-| **4** |  | **Cristian Román-Palacios**, and Alejandro Valencia-Zuleta. *Hybridization increases species richness by triggering diversification rates in a global radiation of passerine birds*. Target journal: Evolution. | In progress |  |
+| **5** | 2015 | **Cristian Román-P** and Daniela Moraga Lopez. *Rebuilding the evolutionary and ecological history of the sea skaters* Halobates *spp. (Heteroptera: Gerridae)*. PeerJ Preprint, page 3:e1416, 2015. | Preprint available | [Preprint](https://peerj.com/preprints/1164/) |
+| **4** |  | Valentina Sarria-Rodríguez, Ranulfo Gonzalez-Obando, Nelson Rivera, Heiber Cardenas-Henao and **Cristian Román-Palacios**.  *Holarctic lineages cannot not inform diversity and evolution in Tropics – the barklice family Psocidae as a case study*. Target journal: Molecular Phylogenetics and Evolution. | Under review |  |
 | **3** |  | **Cristian Román-Palacios**, Daniela Moraga-Lopez, and John J. Wiens. *Explaining the paradox of freshwater biodiversity*. | In progress |  |
 | **2** |  | **Cristian Román-Palacios**, and Aradhna Tripati. *A bayesian linear mixed model on the calibration of the ‘clumped isotope’ paleothermomether.* | In progress |  |
 | **1** |  | Chinmay Hemant Joshi, **Cristian Román-Palacios**, and John J. Wiens. *Haplodiploidy and the evolution of eusociality across insects*. | In progress |  |
