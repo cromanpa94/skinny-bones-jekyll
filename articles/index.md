@@ -18,6 +18,7 @@ share: false
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
+| **27** | 2021 | Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. Goniurosaurus chengzheng *sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)*. Zootaxa 996(3), 540–554, 10.11646/zootaxa.4996.3.8. | [PDF](ZhuEtAl_G_2021.pdf) |
 | **26** | 2021 | **Cristian Román-Palacios**, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. *Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants*. Journal of Evolutionary Biology, 10.1111/jeb.13884. | [PDF](RomanPalaciosetal2021.pdf) |
 | **25** | 2021 | Robert N Ulrich, Maxence Guillermic, Julia Campbell, Abbas Hakim, Rachel Han, Shayleen Singh, Justin D Stewart, **Cristian Román-Palacios**, Hannah M Carroll, Ilian DeCorte, Rosaleen E Gilmore, Whitney Doss, Aradhna Tripati, Justin B Ries, Robert A Eagle. 2021. *Patterns of element incorporation in calcium carbonate biominerals recapitulate phylogeny for a diverse range of marine calcifiers.* Frontiers in Earth Science, section Geochemistry, 9:641760| [PDF](UlrichEtAl2021.pdf) |
 | **24** | 2021 | Tania Hernández-Hernández, Elizabeth C. Miller, **Cristian Román-Palacios**, and John J. Wiens. 2021. Speciation across the Tree of Life. Biological Reviews, Early View| [PDF](HernandezHernandezEtAl2021.pdf) |
