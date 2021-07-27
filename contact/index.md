@@ -16,9 +16,8 @@ ads: false
   <b>Cristian Román-Palacios</b><br>
   Staff researcher  <br>
   University of California, Los Angeles<br>  
-  Philadelphia, PA<br>  
   Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a><br>  
-  Email: <a href="mailto:cromanpa94@email.arizona.edu">cromanpa94@email.arizona.edu</a><br>  
+  Email: <a href="mailto:cromanpa94@g.ucla.edu">cromanpa94@g.ucla.edu</a><br>  
   Twitter: <a href="https://twitter.com/cromanpa">@cromanpa</a><br/>
   Linkedin: <a href="https://www.linkedin.com/in/cromanpa/">Cristian Román-Palacios</a><br/>
   Skype: live:crp-50_1
