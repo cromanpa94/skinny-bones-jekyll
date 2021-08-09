@@ -11,40 +11,19 @@ image:
   thumb:
 share: false
 ---
+<br />
+<br />
 
+## Which projects do I maintain?
+- I currently maintain [treedata.table](https://github.com/ropensci/treedata.table) which was reviewed at [rOpenSci](https://ropensci.org/)
+- I help maintaining [BayClump](https://github.com/Tripati-Lab/BayClump) with the amazing [Hannah Caroll](https://github.com/hannahcarroll) for the [Tripati lab at UCLA](http://atripati.bol.ucla.edu/)
+- I maintain the [Animal Chromosome Count database](https://cromanpa94.github.io/ACC/). The repo is [here](https://github.com/cromanpa94/ACC) and publication [here](https://doi.org/10.1111/jeb.13884).
 
-## R packages
+## What am I working on right now? (Aug 2021)
+- A new R package to perform phylogenetic analyses within R: [phruta](https://github.com/cromanpa94/phruta)
+- An R package to integrate BayesTraits and R: [rBT](https://github.com/cromanpa94/rBT)
+- An R package include some functions that are useful to build and train models under openNLP. [BTOpenNLP](https://github.com/cromanpa94/BTOpenNLP)
+- Personal repository of alternative versions of paricular software in Homebrew. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
 
-**treedata.table** – *An R package for manipulating phylogenetic data with data.table*  
-[Documentation](http://www.uyedalab.com/treedata.table/index.html)
-[Repository](https://github.com/uyedaj/treedata.table)
-
-**piphy** – *Phylogenetic pipelines*  
-Includes the latest versions of rPHYLOTA
-[Repository](https://github.com/cromanpa94/piphy)
-
-**rPHYLOTA** – *Download ortholog clusters from Phylota*  
-This R package include some functions that used to work fine with the previous implementation of Phylota. Needs to be updated [Repository](https://github.com/cromanpa94/rPHYLOTA)
-
-
-**BTOpenNLP** – *Building and Training openNLP models in R*  
-This R package include some functions that are useful to build and train models under openNLP. [Repository](https://github.com/cromanpa94/BTOpenNLP)
-
-
-## Other
-
-**Homebrew** 
-Personal repository of alternative versions of paricular software. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
-
-## Outreach
-
-#### Data carpentry workshops
-
-[Tucson (2018-10-27)](https://uhilgert.github.io/2018-10-27-Tucson/)
-
-[Tucson (2019-02-23)](https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/)
-
-
-#### Data science ambassador (2018–2019)
-
-[DSA-UArizona](https://datascience.arizona.edu/person/cristian-rom%C3%A1n-palacios)
+## Where to find my code!
+- I keep my [GitHub account](https://github.com/cromanpa94) fairly updated! :)
