@@ -12,4 +12,8 @@ share: true
 comments: true
 ---
 
+<br />
+<br />
+{% include toc.html %}
+
 News here!!
