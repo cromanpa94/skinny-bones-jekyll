@@ -63,16 +63,8 @@ I'm always open to collaborations – either on the projects listed below or on
 
 | # | Year | Document | Link |
 |:-:|:-:|:-:|:-:|
-| **3** | 2019 | **Cristian Román-Palacios**. *Five tips for nailing your US-based graduate-school applications*. Nature, 10.1038/d41586-019-00845-z | [Link](https://www.nature.com/articles/d41586-019-00845-z) |
 | **2** | 2017 | **Cristian Román-Palacios**. *P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26. | [PDF](Roman-Palacios_2017_stat.pdf) |
 | **1** | 2016 | **Cristian Román-Palacios**. *¿Conservan las áreas protegidas la biodiversidad en Colombia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82. | [PDF](Roman-Palacios_2016_Areas_Protegidas.pdf) |
-
-
-## Other!
-
-| # | Year | Document | Link |
-|:-:|:-:|:-:|:-:|
-| **1** | 2020 | **By Gemma Conroy**. *Front line scientists call for mental health support in the wake of catastrophic ecosystem loss*. Nature index | [Link](https://www.natureindex.com/news-blog/more-help-needed-for-scientists-on-the-front-line-of-ecosystem-loss) |
 
 
 ### Copyright Notice
