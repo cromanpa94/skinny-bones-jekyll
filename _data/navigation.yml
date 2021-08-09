@@ -4,6 +4,10 @@
   url: /CV/
 - title: Publications
   url: /articles/
+- title: News
+  url: /News/
+- title: Media
+  url: /Media/
 - title: Teaching
   url: /Teaching/
 - title: Talks
@@ -12,5 +16,7 @@
   url: /blog/
 - title: Code
   url: /Code/
-- title: Contact
+- title: Outreach
+  url: /Outreach/
+- title: Get in touch!
   url: /contact/
