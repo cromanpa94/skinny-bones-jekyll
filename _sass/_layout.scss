@@ -84,7 +84,7 @@
 /* Top menu navigation */
 
 .top-menu {
-	display: none;
+	/* display: none; */
 	position: relative;
 	@include media($medium) {
 		@include span-columns(12);
