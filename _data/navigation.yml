@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title: CV
-  url: /CV/
-- title: Publications
-  url: /articles/
 - title: News
   url: /News/
-- title: Media
+- title: Publications
+  url: /articles/
+- title: CV
+  url: /CV/
+- title: Media coverage!
   url: /Media/
 - title: Teaching
   url: /Teaching/
@@ -16,7 +16,9 @@
   url: /Readings/
 - title: Blog
   url: /blog/
-- title: Code
+- title: PhD in the US, guide
+  url: /PhDUSA/
+- title: R packages!
   url: /Code/
 - title: Outreach
   url: /Outreach/
