@@ -10,12 +10,12 @@ image:
   thumb:
 share: true
 ---
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 This is just a brief summary of some highlights!!
 
 ## 2021
