@@ -9,6 +9,7 @@ image:
   teaser:
   thumb:
 share: true
+comments: true
 ---
 
 News here!!
