@@ -16,6 +16,10 @@ share: false
 <br />
 <br />
 
+{% include toc.html %}
+
+<br />
+
 ## Peer-reviewed articles
 
 
