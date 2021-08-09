@@ -12,7 +12,7 @@ image:
 share: true
 ---
 
-### Disclaimer
+
 This list is not extensive and I will keep updating it.
 
 ## Media coverage on papers
@@ -70,11 +70,12 @@ This list is not extensive and I will keep updating it.
 
 
 ## Paper highlights
+
 | # | Paper | Document | Link |
 |:-:|:-:|:-:|:-:|
 | **3** | Román-Palacios and Wiens (2020) | *Wikipedia* | [Link](https://en.wikipedia.org/?curid=9068275) |
 | **2** | Román-Palacios and Wiens (2020) |  Faculty Opinions Recommendation| [Link](https://facultyopinions.com/prime/737354621) |
-| **1** | Xiao-Yu et al. (2021) |  *Wikipedia* | [Link](https://en.wikipedia.org/?curid=323655) |
+| **1** | Xiao-Yu et al. (2021) |  *Wikipedia* | [Link](https://en.wikipedia.org/?curid=323655) | 
 
 
 ## Non-academic media coverage!
