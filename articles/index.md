@@ -18,7 +18,8 @@ share: false
 <br />
 <br />
 ## Peer-reviewed articles
-
+<br />
+<br />
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
@@ -52,7 +53,8 @@ share: false
 
 
 ## Accepted, preprints, and in-progress manuscripts
-
+<br />
+<br />
 I'm always open to collaborations – either on the projects listed below or on new ones! [Contact me](/cromanpa/contact/) ! :)
 
 | # | Year | Paper | Status | Link |
@@ -64,7 +66,8 @@ I'm always open to collaborations – either on the projects listed below or on
 | **1** |  | Chinmay Hemant Joshi, **Cristian Román-Palacios**, and John J. Wiens. *Haplodiploidy and the evolution of eusociality across insects*. | In progress |  |
 
 ## Non-peer-reviewed articles
-
+<br />
+<br />
 | # | Year | Document | Link |
 |:-:|:-:|:-:|:-:|
 | **2** | 2017 | **Cristian Román-Palacios**. *P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26. | [PDF](Roman-Palacios_2017_stat.pdf) |
