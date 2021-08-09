@@ -18,6 +18,8 @@ share: true
 <br />
 This is just a brief summary of some highlights!!
 
+{% include toc.html %}
+
 ## 2021
 ### Fall 2021
 - I will give a lecture at [San Carlos Apache College](https://www.apachecollege.org/)
