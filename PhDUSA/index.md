@@ -12,3 +12,6 @@ image:
 share: false
 
 ---
+
+
+| **3** | 2019 | **Cristian Román-Palacios**. *Five tips for nailing your US-based graduate-school applications*. Nature, 10.1038/d41586-019-00845-z | [Link](https://www.nature.com/articles/d41586-019-00845-z) |
