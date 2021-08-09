@@ -14,6 +14,9 @@ comments: true
 ---
 <br />
 <br />
+
+{% include toc.html %}
+
 ## Academic outreach
 
 ## Outreach
