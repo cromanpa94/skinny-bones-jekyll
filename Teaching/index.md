@@ -15,7 +15,7 @@ share: true
 
 ## Teaching phylosophy
 
-I will include more details on this regard soon!
+My goal is to show students that the training they gain in coursework (e.g. introductory biology classes, evolutionary biology, or biostatistics) can benefit them regardless of their chosen career. In general, my main focus is on teaching how to ask relevant questions based on the existing knowledge and use the most appropiate methods to address them.
 
 
 ## Teaching experience
