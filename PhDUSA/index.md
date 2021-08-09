@@ -15,6 +15,8 @@ share: false
 <br />
 <br />
 
+{% include toc.html %}
+
 I have summarized some of my thoughts on this aspect in a couple documents.
 
 
