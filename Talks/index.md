@@ -20,9 +20,8 @@ ads: false
 ### Marine Biology short podcast (Fall 2020)
 
 <p align="center">
-I was interviewed very briefly by Dr. Katrina Mangin. I talk about some of my research and touch upon some general and personal advice on science and academia.
+I was interviewed very briefly by Dr. Katrina Mangin. I talk about some of my research and touch upon some general and personal advice on science and academia. <a href="https://soundcloud.com/user-669368828/ecol-170c3-mangin-christian-roman-palacios-podcast">Link</a>
 </p>
-[Link](https://soundcloud.com/user-669368828/ecol-170c3-mangin-christian-roman-palacios-podcast)
 
 &nbsp;
 &nbsp;
@@ -33,9 +32,8 @@ I was interviewed very briefly by Dr. Katrina Mangin. I talk about some of my re
 <p align="center">
 John and I discuss our climate change paper with folks at the Climate Pod.
 
-"...Then, we are joined by the University of Arizona's Dr. John J. Wiens and Cristian Román-Palacios, who recently published a study that made headlines for its analysis on the  potential extinction crisis looming if warming temperatures continue. They explain the major drivers behind extinction patterns and where plant and animal most likely to occur." 
+"...Then, we are joined by the University of Arizona's Dr. John J. Wiens and Cristian Román-Palacios, who recently published a study that made headlines for its analysis on the  potential extinction crisis looming if warming temperatures continue. They explain the major drivers behind extinction patterns and where plant and animal most likely to occur." <a href="https://theclimatepod.libsyn.com/new-record-temperatures-and-the-looming-extinction-crisis-w-washington-posts-matthew-cappucci-and-university-of-arizonas-dr-john-j-wiens-and-cristian-romn-palacios">Link</a>
 </p>
-[Link](https://theclimatepod.libsyn.com/new-record-temperatures-and-the-looming-extinction-crisis-w-washington-posts-matthew-cappucci-and-university-of-arizonas-dr-john-j-wiens-and-cristian-romn-palacios)
 
 &nbsp;
 &nbsp;
@@ -45,10 +43,8 @@ John and I discuss our climate change paper with folks at the Climate Pod.
 ### Polyploidy Webinar (Aug 2020)
 
 <p align="center">
-I presented my research on polyploidy at the Polyploidy webinar organized by Michael S. Barker (<a href="https://www.barkerlab.net/">Checkout his website for more information and videos</a>
-).
+I presented my research on polyploidy at the Polyploidy webinar organized by Michael S. Barker (<a href="https://www.barkerlab.net/">Checkout his website for more information and videos</a>. <a href="https://www.youtube.com/watch?v=2PD7c-cyCQY">Link</a>.
 </p>
-[Link](https://www.youtube.com/watch?v=2PD7c-cyCQY)
 
 &nbsp;
 &nbsp;
