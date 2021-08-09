@@ -2,7 +2,7 @@
 layout: archive
 date: 2014-06-25T13:57:25-04:00
 modified: 2016-01-19
-title: "CV"
+title: "Cristian's CV"
 excerpt:
 tags: []
 image:
@@ -11,8 +11,6 @@ image:
   thumb:
 share: true
 ---
-<br />
-<br />
 <br />
 <br />
 <br />
