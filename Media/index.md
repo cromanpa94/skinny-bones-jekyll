@@ -68,7 +68,7 @@ This list is not exhaustive and I will keep updating it.
 
 
 
-Paper highlights
+## Paper highlights
 | # | Paper | Document | Link |
 |:-:|:-:|:-:|:-:|
 | **3** | Román-Palacios and Wiens (2020) | *Wikipedia* | [Link](https://en.wikipedia.org/?curid=9068275) |
@@ -76,7 +76,7 @@ Paper highlights
 | **1** | Xiao-Yu et al. (2021) |  *Wikipedia* | [Link](https://en.wikipedia.org/?curid=323655) |
 
 
-Non-academic media coverage!
+## Non-academic media coverage!
 
 | # | Year | Document | Link |
 |:-:|:-:|:-:|:-:|
