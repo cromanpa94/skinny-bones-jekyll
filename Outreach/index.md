@@ -10,6 +10,7 @@ image:
   teaser:
   thumb:
 share: true
+comments: true
 ---
 <br />
 <br />
