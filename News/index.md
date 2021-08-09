@@ -11,11 +11,9 @@ image:
 share: true
 ---
 
-## Cristian's news!!
+This is just a brief summary of some highlights!!
 
-This is just a summary of some highlights!!
-
-
+## 2021
 ### Fall 2021
 - I will give a lecture at [San Carlos Apache College](https://www.apachecollege.org/)
 - I will be leading Spanish sessions in [GIS for community Health](https://www.ioes.ucla.edu/wp-content/uploads/CDLSAnnualReport2018-2019.pdf) (UCLA; CDLS)
@@ -36,6 +34,8 @@ This is just a summary of some highlights!!
 - Got five discus fish :)
 - First job application to UCSD. They interviewed me YAY! Congrats to [Arun](https://twitter.com/arunsethuraman), the successful candidate!
 
+## 2020
+
 ### Fall 2020
 - [I passed my Doctoral oral examination](https://news.arizona.edu/calendar/123246-doctoral-oral-examination-%E2%80%93-ecology-and-evolutionary-biology-virtual).
 - So much frustration with RFmix
@@ -49,6 +49,8 @@ This is just a summary of some highlights!!
 - Climate change paper out
 - Lots of interviews!! First TV interview! First newspaper interview!!
 - Invited speaker at Congressman [Grijalva's office](https://grijalva.house.gov/)
+
+## 2019
 
 ### Winter 2019
 - Went back home for a couple weeks!
@@ -89,6 +91,8 @@ This is just a summary of some highlights!!
 - Re-submitted my diet paper for the ~10th time.
 - Started to work in a megaphylogeny for insects.
 
+## 2018
+
 ### Fall 2018
 - Went to Vancouver!
 - Data Science Ambassador at UArizona! I was part of the first cohort!
@@ -99,6 +103,8 @@ This is just a summary of some highlights!!
 - Hawaii, AGA symposium!
 - Went back home, colombia
 - San Cipriano, Buenaventura, Colombia
+
+## 2017
 
 ### Winter 2017
 - Went backpacking to Europe for three weeks!
@@ -115,6 +121,8 @@ This is just a summary of some highlights!!
 ### Spring 2017
 - First and last DEI committee
 - Helped organize ColEvol 2017!!
+
+## 2016
 
 ### Winter 2016
 - Discovered interlibrarian loans at The University of Arizona. Life changer.
@@ -134,12 +142,16 @@ This is just a summary of some highlights!!
 - Visa application and interview!
 - Anolis manuscript with Rosario and Jose!
 
+## 2015
+
 ### Fall 2015
 - **Commencement at Universidad del Valle, Cali Colombia**
 - Anolis manuscript with Rosario and Jose!
 
 ### Summer 2015
 - Trip to Mexico! Internships at Dr. [Garcia Aldrete](http://www.ib.unam.mx/directorio/52) and [Alejandro Zaldivar](http://www.ib.unam.mx/directorio/195) labs
+
+## 2013
 
 ### Fall 2013
 - Geckos – Joined the grupo de estudio en herpetos at Universidad del Valle, Cali
