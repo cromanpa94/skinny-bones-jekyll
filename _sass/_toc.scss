@@ -5,7 +5,7 @@
 /*
    Page table of contents
    ========================================================================== */
-/*
+
 .toc {
   margin-left: -1 * $gutter;
   margin-right: -1 * $gutter;
@@ -51,11 +51,11 @@
     }
   }
 }
-*/
+
 /*
    1/4 wide table of contents to be used as a sidebar (left aligned)
    ========================================================================== */
-/*
+
 .toc-left {
   @include span-columns(12);
   @include media($medium) {
@@ -69,4 +69,3 @@
     }
   }
 }
-*/
