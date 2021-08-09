@@ -10,12 +10,12 @@ image:
   teaser:
   thumb:
 share: false
-
+comments: true
 ---
 <br />
 <br />
 
-I have summarized some of my thoughts on this aspect in a couple documents.
+I have summarized some of my thoughts on this aspect in a couple documents. Please feel free to leave any comments at the end of this page!! :)
 
 {% include toc.html %}
 
