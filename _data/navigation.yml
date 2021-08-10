@@ -2,9 +2,6 @@
 
 - title: Home
   url: /
-  children:
-      - title: "News"
-        url: /News/
 - title: News
   url: /News/
 - title: Publications
