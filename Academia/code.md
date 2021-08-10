@@ -11,8 +11,6 @@ image:
   thumb:
 share: false
 ---
-<br />
-<br />
 
 ## Which projects do I maintain?
 - I currently maintain [treedata.table](https://github.com/ropensci/treedata.table) which was reviewed at [rOpenSci](https://ropensci.org/)

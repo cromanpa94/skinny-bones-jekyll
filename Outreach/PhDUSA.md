@@ -12,8 +12,6 @@ image:
 share: false
 comments: true
 ---
-<br />
-<br />
 
 I have summarized some of my thoughts on this aspect in a couple documents. Please feel free to leave any comments at the end of this page!! :)
 
@@ -21,7 +19,7 @@ I have summarized some of my thoughts on this aspect in a couple documents. Plea
 
 ## English
 
-Fist, I wrote a column in Nature that was published in 2019. *Five tips for nailing your US-based graduate-school applications* (10.1038/d41586-019-00845-z). You can access the latest version of the column using this [link](https://www.nature.com/articles/d41586-019-00845-z).
+I wrote a short column for Nature that was published in 2019. *Five tips for nailing your US-based graduate-school applications* (10.1038/d41586-019-00845-z). You can access the latest version of the column using this [link](https://www.nature.com/articles/d41586-019-00845-z).
 
 
 ## Español

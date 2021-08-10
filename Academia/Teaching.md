@@ -12,8 +12,6 @@ image:
 share: true
 ---
 
-<br />
-<br />
 {% include toc.html %}
 
 ## Teaching phylosophy

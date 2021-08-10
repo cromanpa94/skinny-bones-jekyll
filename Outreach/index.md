@@ -17,7 +17,6 @@ Please follow the links below for information on the following aspects:
 
 - [Non-academic outreach](nonacademicOut.md)
 - [Academic outreach](academicOut.md)
-- [Non-academic outreach](academicOut.md)
 - [How to apply to a PhD in the US](PhDUSA.md)
 - [My personal and non extensive list of books, documentaries etc](readings.md)
 

@@ -13,12 +13,6 @@ share: true
 comments: true
 ---
 
-
-
-## Academic outreach
-
-## Outreach
-
 #### Data carpentry workshops
 
 - [Tucson (2018-10-27)](https://uhilgert.github.io/2018-10-27-Tucson/)
