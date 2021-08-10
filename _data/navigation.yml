@@ -1,4 +1,5 @@
 # Site navigation links
+/:
 - title: Papers and media
     children:
       - title: "Publications"
