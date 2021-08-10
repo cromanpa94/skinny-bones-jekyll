@@ -12,11 +12,6 @@ ads: false
 ---
 
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 {% include toc.html %}
 
 &nbsp;
@@ -59,12 +54,9 @@ ______
 
 ### Universidad Nacional de Colombia, Bogotá (May 2019)
 
-<p align="center">
-  <b>Link:</b><br>
-  <a href="https://www.youtube.com/watch?v=lwHcw65gxI0">Youtube video</a>
-  <br><br>
-  <img src="ICN_Talk_2019.jpg">
-</p>
+
+![ICN](ICN_Talk_2019.jpg)
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -74,10 +66,8 @@ ______
 
 ### Universidad del Quindio, Armenia, Colombia (July 2019)
 
-<p align="center">
+![UQ](UQ_Talk_2019.JPG)
 
-  <img src="UQ_Talk_2019.JPG">
-</p>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -87,7 +77,5 @@ ______
 
 ### Universidad del Valle, Cali, Colombia (July 2019)
 
-<p align="center">
+![UV](UV_Talk_2019.jpg)
 
-  <img src="UV_Talk_2019.jpg">
-</p>

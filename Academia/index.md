@@ -15,7 +15,6 @@ share: true
 Please follow the links below for information on the following aspects:
 
 - [Teaching](Teaching.md)
-- [Collaborators](collaborators.md)
 - [Talks](Talks.md)
 - [R packages](code.md)
 - [Blog](blog.md)
