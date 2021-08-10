@@ -5,8 +5,8 @@ locales:
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    overview: "Overview"
-    #toc: "Table of Contents"
+    overview: "In this website..."
+    toc: "Table of Contents"
     written_by: "Written by"
     updated: "Updated"
     share: "Share on"
