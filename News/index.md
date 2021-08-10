@@ -12,7 +12,7 @@ image:
 share: true
 ---
 
-This is just a brief summary of some highlights!!
+This is a brief summary of some highlights!!
 
 {% include toc.html %}
 
