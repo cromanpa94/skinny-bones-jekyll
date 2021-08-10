@@ -12,8 +12,6 @@ image:
 share: true
 ---
 
-<br />
-<br />
 This list is not extensive and I will keep updating it.
 &nbsp;
 {% include toc.html %}

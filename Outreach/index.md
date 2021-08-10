@@ -12,21 +12,11 @@ image:
 share: true
 comments: true
 ---
-<br />
-<br />
 
-{% include toc.html %}
+Please follow the links below for information on the following aspects:
 
-## Academic outreach
+- [Academic outreach](academicOut.md)
+- [Non-academic outreach](academicOut.md)
+- [How to apply to a PhD in the US](PhDUSA.md)
+- [My personal and non extensive list of books, documentaries etc](readings.md)
 
-## Outreach
-
-#### Data carpentry workshops
-
-- [Tucson (2018-10-27)](https://uhilgert.github.io/2018-10-27-Tucson/)
-
-- [Tucson (2019-02-23)](https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/)
-
-#### Data science ambassador (2018–2019)
-
-- [DSA-UArizona](https://datascience.arizona.edu/person/cristian-rom%C3%A1n-palacios)

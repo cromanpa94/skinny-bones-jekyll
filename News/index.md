@@ -2,6 +2,7 @@
 layout: archive
 date: 2014-06-25T13:57:25-04:00
 modified: 2016-01-19
+title: "News!"
 excerpt:
 tags: []
 image:
@@ -10,12 +11,7 @@ image:
   thumb:
 share: true
 ---
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 This is just a brief summary of some highlights!!
 
 {% include toc.html %}
