@@ -8,6 +8,13 @@
   url: /articles/
 - title: CV
   url: /CV/
+- title: More academia
+  url: /Outreach/
+- title: Outreach
+  url: /Outreach/
+- title: Contact!
+  url: /contact/
+
 - title: Media coverage!
   url: /Media/
 - title: Teaching
@@ -22,8 +29,5 @@
   url: /PhDUSA/
 - title: R packages!
   url: /Code/
-- title: Outreach
-  url: /Outreach/
-- title: Get in touch!
-  url: /contact/
+
 
