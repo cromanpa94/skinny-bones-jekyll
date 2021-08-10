@@ -1,10 +1,32 @@
 # Site navigation links
-/:
-- title: Papers and media
-    children:
-      - title: "Publications"
-        url: /articles/
-      - title: "CV"
-        url: /CV/
 
+- title: Home
+  url: /
+  children:
+      - title: "News"
+        url: /News/
+- title: News
+  url: /News/
+- title: Publications
+  url: /articles/
+- title: CV
+  url: /CV/
+- title: Media coverage!
+  url: /Media/
+- title: Teaching
+  url: /Teaching/
+- title: Talks
+  url: /Talks/
+- title: Fun readings!
+  url: /Readings/
+- title: Blog
+  url: /blog/
+- title: PhD in the US, guide
+  url: /PhDUSA/
+- title: R packages!
+  url: /Code/
+- title: Outreach
+  url: /Outreach/
+- title: Get in touch!
+  url: /contact/
 
