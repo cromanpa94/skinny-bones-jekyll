@@ -1,14 +1,15 @@
 ---
 layout: archive
+date: 2014-06-25T13:57:25-04:00
+modified: 2016-01-19
 title: "More academia"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
+excerpt:
+tags: []
 image:
   feature:
   teaser:
   thumb:
 share: true
-ads: false
 ---
 
 Please follow the links below for information on the following aspects:
