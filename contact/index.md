@@ -14,10 +14,10 @@ ads: false
 <p align="center">
   <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br><br>
   <b>Cristian Román-Palacios</b><br>
-  Staff researcher  <br>
-  University of California, Los Angeles<br>  
+  Assistant Professor of Practice<br>
+  University of Arizona<br>  
   Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a><br>  
-  Email: <a href="mailto:cromanpa@g.ucla.edu">cromanpa@g.ucla.edu</a><br>  
+  Email: <a href="mailto:cromanpa@arizona.edu">cromanpa94@arizona.edu</a><br>  
   Twitter: <a href="https://twitter.com/cromanpa">@cromanpa</a><br/>
   Linkedin: <a href="https://www.linkedin.com/in/cromanpa/">Cristian Román-Palacios</a><br/>
   Skype: live:crp-50_1
