@@ -22,6 +22,8 @@ share: false
 
 | # | Year | Paper | Link |
 |:-:|:-:|:-:|:-:|
+| **29** | 2021 | **Cristian Román-Palacios**, April Wright, and Josef Uyeda. *treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.* PeerJ 9: e12450. | [PDF](2021_Roman-Palacios_treedata.table.pdf) |
+| **28** | 2021 | Xiao-Yu, Zhu, Shi-Yang Wu, S. Y., Yi-Juao Liu, Chris R. Reardon, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. *A new species of whip spider, Weygoldtia hainanensis sp. nov., from Hainan, China (Arachnida: Amblypygi: Charinidae).* Zootaxa, 5082(1), 65-76. | [PDF](2021_Zhu_Weygoldtia.pdf) |
 | **27** | 2021 | Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. Goniurosaurus chengzheng *sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)*. Zootaxa 996(3), 540–554, 10.11646/zootaxa.4996.3.8. | [PDF](2021ZhuEtAl.pdf) |
 | **26** | 2021 | **Cristian Román-Palacios**, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. *Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants*. Journal of Evolutionary Biology, 10.1111/jeb.13884. | [PDF](RomanPalaciosetal2021.pdf) |
 | **25** | 2021 | Robert N Ulrich, Maxence Guillermic, Julia Campbell, Abbas Hakim, Rachel Han, Shayleen Singh, Justin D Stewart, **Cristian Román-Palacios**, Hannah M Carroll, Ilian DeCorte, Rosaleen E Gilmore, Whitney Doss, Aradhna Tripati, Justin B Ries, Robert A Eagle. 2021. *Patterns of element incorporation in calcium carbonate biominerals recapitulate phylogeny for a diverse range of marine calcifiers.* Frontiers in Earth Science, section Geochemistry, 9:641760| [PDF](UlrichEtAl2021.pdf) |
@@ -60,8 +62,9 @@ I'm always open to collaborations – either on the projects listed below or on
 | **5** | 2015 | **Cristian Román-P** and Daniela Moraga Lopez. *Rebuilding the evolutionary and ecological history of the sea skaters* Halobates *spp. (Heteroptera: Gerridae)*. PeerJ Preprint, page 3:e1416, 2015. | Preprint available | [Preprint](https://peerj.com/preprints/1164/) |
 | **4** |  | Valentina Sarria-Rodríguez, Ranulfo Gonzalez-Obando, Nelson Rivera, Heiber Cardenas-Henao and **Cristian Román-Palacios**.  *Holarctic lineages cannot not inform diversity and evolution in Tropics – the barklice family Psocidae as a case study*. Target journal: Molecular Phylogenetics and Evolution. | Under review |  |
 | **3** |  | **Cristian Román-Palacios**, Daniela Moraga-Lopez, and John J. Wiens. *Explaining the paradox of freshwater biodiversity*. | In progress |  |
-| **2** |  | **Cristian Román-Palacios**, and Aradhna Tripati. *A bayesian linear mixed model on the calibration of the ‘clumped isotope’ paleothermomether.* | In progress |  |
+| **2** |  | **Román Palacios, C.**, Carroll, H., Arnold, A., Flores, R., Petersen, S., McKinnon, K., & Tripati, A. *BayClump: Bayesian Calibration and Temperature Reconstructions for Clumped Isotope Thermometry.* | In progress |  |
 | **1** |  | Chinmay Hemant Joshi, **Cristian Román-Palacios**, and John J. Wiens. *Haplodiploidy and the evolution of eusociality across insects*. | In progress |  |
+
 
 ## Non-peer-reviewed articles
 
