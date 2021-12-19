@@ -13,4 +13,5 @@ share: true
 comments: true
 ---
 
-[Details here]
+2021 – DeVolver conCiencia: devolverconciencia.github.io 
+2021 – Ciencia Afrolatina: TBD
