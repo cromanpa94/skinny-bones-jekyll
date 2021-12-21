@@ -16,5 +16,5 @@ share: true
 
 
 <p align="center">
-  <b>Updated in July, 2021</b><br>
+  <b>Updated in Dec, 2021</b><br>
 </p>
