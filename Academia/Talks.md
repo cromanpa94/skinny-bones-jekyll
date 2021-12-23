@@ -42,7 +42,7 @@ John and I discuss our climate change paper with folks at the Climate Pod.
 ### Polyploidy Webinar (Aug 2020)
 
 <p align="center">
-I presented my research on polyploidy at the Polyploidy webinar organized by Michael S. Barker (<a href="https://www.barkerlab.net/">Checkout his website for more information and videos</a>. <a href="https://www.youtube.com/watch?v=2PD7c-cyCQY">Link</a>.
+I presented my research on polyploidy at the Polyploidy webinar organized by Michael S. Barker (<a href="https://www.barkerlab.net/">Checkout his website for more information and videos</a>. <a href="https://www.youtube.com/watch?v=2PD7c-cyCQY">Youtube video</a>.
 </p>
 
 &nbsp;
@@ -54,6 +54,10 @@ ______
 
 ### Universidad Nacional de Colombia, Bogotá (May 2019)
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=lwHcw65gxI0">Youtube video</a>
+</p>
+
 
 ![ICN](ICN_Talk_2019.jpg)
 
@@ -61,6 +65,7 @@ ______
 &nbsp;
 &nbsp;
 &nbsp;
+
 
 ______
 
