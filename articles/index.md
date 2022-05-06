@@ -39,21 +39,21 @@ share: false
         <td>2021</td>
         <td><b>Cristian Román-Palacios</b>, April Wright, and Josef Uyeda. <i>treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.</i> PeerJ 9: e12450.</td>
         <td> <a href="2021_Roman-Palacios_treedata.table.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>28</td>
         <td>2021</td>
         <td>Xiao-Yu, Zhu, Shi-Yang Wu, S. Y., Yi-Juao Liu, Chris R. Reardon, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i>A new species of whip spider, Weygoldtia hainanensis sp. nov., from Hainan, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5082(1), 65-76.</td>
         <td> <a href="2021_Zhu_Weygoldtia.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>27</td>
         <td>2021</td>
         <td>Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. Goniurosaurus chengzheng <i>sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)</i>. Zootaxa 996(3), 540–554, 10.11646/zootaxa.4996.3.8.</td>
         <td> <a href="2021ZhuEtAl.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>26</td>
@@ -67,7 +67,7 @@ share: false
         <td>2021</td>
         <td>Robert N. Ulrich, Maxence Guillermic, Julia Campbell, Abbas Hakim, Rachel Han, Shayleen Singh, Justin D. Stewart, <b>Cristian Román-Palacios</b>, Hannah M. Carroll, Ilian DeCorte, Rosaleen E. Gilmore, Whitney Doss, Aradhna Tripati, Justin B. Ries, Robert A. Eagle. 2021. <i>Patterns of element incorporation in calcium carbonate biominerals recapitulate phylogeny for a diverse range of marine calcifiers.</i> Frontiers in Earth Science, section Geochemistry, 9:641760</td>
         <td> <a href="UlrichEtAl2021.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>24</td>
@@ -123,14 +123,14 @@ share: false
         <td>2018</td>
         <td>Alfonso N. Garcia-Aldrete, Nancy S. Carrejo, Julian Mendivil, Nadia Calderón, Oscar Saenz, Jefferson Panche, <b>Cristian Román-Palacios</b>, and Ranulfo Obando-Obando. 2018. <i>Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to families</i>. Dugesiana, 25:77-103.</td>
         <td> <a href="2018_Garcia-Aldrete et al 2018_Psocoptera_Colombia.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>16</td>
         <td>2018</td>
         <td><b>Cristian Román-Palacios</b>, and John J. Wiens. 2018. <i>The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations</i>. Journal of Biogeography, 45:1701–1702.</td>
         <td> <a href="2018_Roman_Palacios_Wiens_JBI_2018.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>15</td>
@@ -144,98 +144,98 @@ share: false
         <td>2018</td>
         <td><b>Cristian Román-Palacios</b>, Jakob Damgaard, Lanna Cheng, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir, and Herbert Zettle. 2018. <i>Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae)</i>. Journal of Insect Systematics and Evolution,  51:139–240.</td>
         <td> <a href="2018_Roman-Palacios_et_al._Halobatinae.pdf">PDF</a>  </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>13</td>
         <td>2018</td>
         <td><b>Cristian Román-Palacios</b>, and Alejandro Valencia-Zuleta. 2018. <i>On the Data Deficient amphibians from Colombia</i>. Revista de Biologia Tropical, 66:1272-1281.</td>
         <td> <a href="2018_Roman-Palacios_&_Valencia-Zuleta 2018_Colombian_DD.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>12</td>
         <td>2017</td>
         <td><b>Cristian Román-Palacios</b>, Yherson Franchesco Molina-Henao, and Ranulfo Gonzalez-Obando. 2017. <i>On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography</i>. Boletin del Museo de Entomologia de la Universidad del Valle, 17:37-46.</td>
         <td> <a href="22017_Roman-Palacios et al. 2017_Psocidae_Divergence.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>11</td>
         <td>2017</td>
         <td><b>Cristian Román-Palacios</b>, Sara Fernández–Garzón, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, and Ronald A. Viáfara–Vega. 2017. <i>Lista anotada de la herpetofauna del departamento del Quindío, Colombia</i>. Biota Colombiana, 18:251-281.</td>
         <td>  <a href="2017_Roman-Palacios et al. 2017_Quindio_Herps.pdf">PDF</a>  </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>10</td>
         <td>2016</td>
         <td><b>Cristian Román-Palacios</b>, Sara Fernández-Garzon, Jenny Johana Gallo-Franco, Alan Giraldo-Lopez, Monica Hernandez-Lopez, and Wilmar Bolivar-Garcia. 2017. <i>Uso de microhábitat por anuros en un fragmento de bosque seco intervenido del Magdalena medio, Guarinocito, Colombia</i>. Boletín Científico Centro De Museos Museo De Historia Natural, 20:181-196.</td>
         <td> <a href="2016_Roman-Palacios et al_2016_Guarinocito.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>9</td>
         <td>2016</td>
         <td><b>Cristian Román-Palacios</b>, and Cesar Román Valencia. 2017. <i>Dieta y reproducción de Bryconamericus caucanus (Characiformes: Characidae) en La Venada, Río Quindío, Colombia</i>. Revista MVZ Córdoba, 2:1-17.</td>
         <td> <a href="2016_Roman-Palacios et al_2016_caucanus.pdf">PDF</a>  </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>8</td>
         <td>2016</td>
         <td><b>Cristian Román-Palacios</b>, Alfonso Neri García-Aldrete, and Ranulfo Gonzalez Obando. 2016. <i>Historical biogeography of Thyrsophorini psocids and description of a new Neotropical species of Thyrsopsocopsis (Psocodea: Psocomorpha: Psocidae)</i>. European Journal of Entomology, 194:1-16.</td>
         <td> <a href="2016_Roman-Palacios et al 2016_Thyrso.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>7</td>
         <td>2016</td>
         <td><b>Cristian Román-Palacios</b>, Ranulfo Obando-Gonzalez, and Alfonso Neri Aldrete. 2016. <i>Uncovering the diversity of the neotropical genus Elaphopsocus (‘Psocoptera’: Psocidae: Amphigerontiinae): from one to ten species</i>. Zootaxa, 4162:373-380.</td>
         <td> <a href="2016_Roman-Palacios et al_2016_Uncovering_ela2.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>6</td>
         <td>2015</td>
         <td><b>Cristian Román-Palacios</b>, and Alfonso N. García Aldrete. 2015. <i>A new Neotropical genus of Blastini (Psocodea:’Psocoptera’: Psocidae: Amphigerontiinae)</i>. Zootaxa, 4000:392-396.</td>
         <td> <a href="2015_Garcia-Aldrete_Roman-Palacios_2015_Blastini.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>5</td>
         <td>2015</td>
         <td>Daniela Moraga Lopez, and <b>Cristian Román-Palacios</b>. 2015. <i>Information criteria on multimodel selection of parametric regression: Biological applications</i>. Revista Comunicaciones en Estadística, 8:45-57.</td>
         <td> <a href="2015_Moraga_Lopez_Roman-Palacios_2015_Multimodel.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>4</td>
         <td>2015</td>
         <td><b>Cristian Román-Palacios</b>, Ranulfo Gonzalez Obando, and Alfonso Neri Garcia Aldrete. 2015. <i>The genus Elaphopsocus Roesler (Psocodea:’Psocoptera’: Psocidae) with six new species from Brazil and Colombia</i>. Zootaxa, 3957:151–168.</td>
         <td> <a href="2015_Roman-Palacios_et_al_2015_Elaphosocus.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>3</td>
         <td>2015</td>
         <td><b>Cristian Román-Palacios</b>, and Cesar Román Valencia. 2015. <i>Hábitos tróficos de dos especies sintópicas de carácidos en una quebrada de alta montaña en los Andes de Colombia</i>. Revista Mexicana de Biodiversidad, 86:1–7.</td>
         <td>  <a href="2015_Roman-Palacios_&_Roman-Valencia_2015_Two_freshwater.pdf">PDF</a> </td>
-        <td><span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="small_circle"></span></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>2</td>
         <td>2014</td>
         <td><b>Cristian Román-Palacios</b>, Alfonso Neri García Aldrete, and Ranulfo Gonzalez-Obando. 2014. <i>Elaphopsocoides, a new genus of Psocidae (Psocodea: ’Psocoptera’) from Valle del Cauca, Colombia</i>. Zootaxa, 3873:93–100.</td>
         <td> <a href="2014_Roman-P_et_al_2014_Elaphopsocus.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
     <tr>
         <td>1</td>
         <td>2014</td>
         <td><b>Cristian Román-Palacios</b>, Cesar Román Valencia, and Donald C. Taphorn. 2014. <i>Trophic and reproductive ecology of a neotropical characid fish Hemibrycon brevispini (Teleostei: Characiformes)</i>. Caldasia, 36:289–304.</td>
         <td><a href="2015_Roman-Palacios_et_al_2015_Brevi.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.rmb.2015.06.009" data-style="small_circle"></span></td>
     </tr>
 </table>
 
