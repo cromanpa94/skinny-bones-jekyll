@@ -65,8 +65,9 @@ This list is not extensive and I will keep updating it.
 | **42** | Román-Palacios et al. (2019) | Helsingin Sanomat | [Link](https://www.hs.fi/tiede/art-2000006226407.html?ref=rss) |
 | **43** | Román-Palacios et al. (2019) | ABS.es | [Link](https://www.abc.es/ciencia/abci-inesperada-dieta-primer-animal-mundo-201909040225_noticia.html) |
 | **44** | Román-Palacios et al. (2019) | La Voz Digital | [Link](ct.moreover.com/?a=40103610124&p=1pl&v=1&x=fdaoTGr9dUWsWD-dJ7uS_A) |
-| **45** | Román-Palacios et al. (2019) | Trust My Science | [Link](https://trustmyscience.com/comment-regimes-alimentaires-ont-evolue-dans-regne-animal/) |
+| **45** | Román-Palacios et al. (2019) | Trust My Science | [Link](https://trustmyscience.com/comment-regimes-alimentaires-ont-evolue-dans-regne-animal/) 
 | **46** | Román-Palacios et al. (2019) | UArizona news | [Link](https://news.arizona.edu/story/paleozoic-diet-why-animals-eat-what-they-eat) |
+| **47** | Román-Palacios et al. (2022) | UArizona news | [Link](https://news.arizona.edu/story/freshwater-habitats-are-fragile-pockets-exceptional-biodiversity-study-finds) |
 
 
 
