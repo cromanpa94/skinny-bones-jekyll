@@ -87,7 +87,7 @@ I'm always open to collaborations – either on the projects listed below or on
         <td>30</td>
         <td>2022</td>
         <td>**Cristian Román-Palacios**, Daniela Moraga-Lopez, and John J. Wiens. *The origins of global biodiversity on land, sea, and freshwater.* Ecology Letters.</td>
-        <td>[PDF](Roman-Palacios_et_al._EL_2022.pdf)</td>
+        <td> <a href="Roman-Palacios_et_al._EL_2022.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
