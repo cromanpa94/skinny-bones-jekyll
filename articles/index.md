@@ -75,48 +75,39 @@ I'm always open to collaborations – either on the projects listed below or on
 | **1** | 2016 | **Cristian Román-Palacios**. *¿Conservan las áreas protegidas la biodiversidad en Colombia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82. | [PDF](Roman-Palacios_2016_Areas_Protegidas.pdf) |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-0pky">#</th>
-    <th class="tg-c3ow"></th>
-    <th class="tg-c3ow">Critique to Torgo (2017) </th>
-    <th class="tg-c3ow">Your updated approach</th>
+    <th>#</th>
+    <th></th>
+    <th>Critique to Torgo (2017) </th>
+    <th>Your updated approach</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">1</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">NN</td>
-    <td class="tg-c3ow">&lt;<br>div<br> <br>class<br>=<br>'altmetric-embed'<br> <br>data-badge-type<br>=<br>'donut'<br> <br>data-doi<br>=<br>"10.1038/nature.2012.9872"&gt;<br>&lt;/<br>div&gt;</td>
+    <td>1</td>
+    <td></td>
+    <td>NN1</td>
+    <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div><br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">2</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">3</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">...</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td>...</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
