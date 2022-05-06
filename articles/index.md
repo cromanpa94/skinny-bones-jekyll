@@ -22,7 +22,7 @@ share: false
 
 | # | Year | Paper | Link | Coverage |
 |:-:|:-:|:-:|:-:|:-:|
-| **30** | 2022 | **Cristian Román-Palacios**, Daniela Moraga-Lopez, and John J. Wiens. *The origins of global biodiversity on land, sea, and freshwater.* Ecology Letters. | [PDF](Roman-Palacios_et_al._EL_2022.pdf) | <div class='altmetric-embed altmetric-doi-10.5339/connect.2012.9 altmetric-badge-type-donut altmetric-badge-popover-left'></div> |
+| **30** | 2022 | **Cristian Román-Palacios**, Daniela Moraga-Lopez, and John J. Wiens. *The origins of global biodiversity on land, sea, and freshwater.* Ecology Letters. | [PDF](Roman-Palacios_et_al._EL_2022.pdf) | <div class='altmetric-embed altmetric-doi-10.5339/connect.2012.9 altmetric-badge-type-donut altmetric-badge-popover-left'> </div> |
 | **29** | 2021 | **Cristian Román-Palacios**, April Wright, and Josef Uyeda. *treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.* PeerJ 9: e12450. | [PDF](2021_Roman-Palacios_treedata.table.pdf) | <div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>  |
 | **28** | 2021 | Xiao-Yu, Zhu, Shi-Yang Wu, S. Y., Yi-Juao Liu, Chris R. Reardon, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. *A new species of whip spider, Weygoldtia hainanensis sp. nov., from Hainan, China (Arachnida: Amblypygi: Charinidae).* Zootaxa, 5082(1), 65-76. | [PDF](2021_Zhu_Weygoldtia.pdf) | <div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div> |
 | **27** | 2021 | Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, **Cristian Román-Palacios**, Zheng Li, Zhu-Qing He. Goniurosaurus chengzheng *sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)*. Zootaxa 996(3), 540–554, 10.11646/zootaxa.4996.3.8. | [PDF](2021ZhuEtAl.pdf) | <div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div> |
@@ -74,6 +74,52 @@ I'm always open to collaborations – either on the projects listed below or on
 | **2** | 2017 | **Cristian Román-Palacios**. *P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26. | [PDF](Roman-Palacios_2017_stat.pdf) |
 | **1** | 2016 | **Cristian Román-Palacios**. *¿Conservan las áreas protegidas la biodiversidad en Colombia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82. | [PDF](Roman-Palacios_2016_Areas_Protegidas.pdf) |
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">#</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">Critique to Torgo (2017) </th>
+    <th class="tg-c3ow">Your updated approach</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">NN</td>
+    <td class="tg-c3ow">&lt;<br>div<br> <br>class<br>=<br>'altmetric-embed'<br> <br>data-badge-type<br>=<br>'donut'<br> <br>data-doi<br>=<br>"10.1038/nature.2012.9872"&gt;<br>&lt;/<br>div&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">...</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+</tbody>
+</table>
 
 ### Copyright Notice
 These documents are protected by various copyright laws. However, I may distribute copies to individuals for personal, research use. Your click on any of the PDF links above constitutes your request for a personal copy of the linked article and my delivery of a personal copy. Any other use or distribution is prohibited. These are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis.
