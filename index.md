@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Research</h2>
-  <p class="post-excerpt">I use statistics and bioinformatics to address questions at the interface between ecology and evolution. My research interests are generally related to phylogenetics, systematics, convervation biology, and the effects of climate change on biodiversity at different spatial and taxonomic scales! </p>
+  <p class="post-excerpt">I use statistics, bioinformatics, and machine learning techniques in general to address questions at the interface between ecology and evolution. My research interests are generally related to phylogenetics, systematics, conservervation biology, and the effects of climate change on biodiversity at different spatial, temporal, and taxonomic scales! </p>
 </div><!-- /.tile -->
 
 <div class="tile">
