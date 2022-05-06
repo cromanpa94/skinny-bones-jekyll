@@ -75,5 +75,10 @@ I'm always open to collaborations – either on the projects listed below or on
 | **1** | 2016 | **Cristian Román-Palacios**. *¿Conservan las áreas protegidas la biodiversidad en Colombia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82. | [PDF](Roman-Palacios_2016_Areas_Protegidas.pdf) |
 
 
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
 ### Copyright Notice
 These documents are protected by various copyright laws. However, I may distribute copies to individuals for personal, research use. Your click on any of the PDF links above constitutes your request for a personal copy of the linked article and my delivery of a personal copy. Any other use or distribution is prohibited. These are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis.
