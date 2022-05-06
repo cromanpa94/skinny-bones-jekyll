@@ -32,7 +32,7 @@ share: false
         <td>2022</td>
         <td><b>Cristian Román-Palacios</b>, Daniela Moraga-Lopez, and John J. Wiens. <i>The origins of global biodiversity on land, sea, and freshwater.</i> Ecology Letters.</td>
         <td> <a href="Roman-Palacios_et_al._EL_2022.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1111/ele.13999" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>29</td>
@@ -60,7 +60,7 @@ share: false
         <td>2021</td>
         <td><b>Cristian Román-Palacios</b>, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. <i>Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants</i>. Journal of Evolutionary Biology, 10.1111/jeb.13884.</td>
         <td>  <a href="RomanPalaciosetal2021.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1111/jeb.13884" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>25</td>
@@ -74,49 +74,49 @@ share: false
         <td>2021</td>
         <td>Tania Hernández-Hernández, Elizabeth C. Miller, <b>Cristian Román-Palacios</b>, and John J. Wiens. 2021. <i>Speciation across the Tree of Life</i>. Biological Reviews, Early View</td>
         <td> <a href="HernandezHernandezEtAl2021.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1111/brv.12698" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>23</td>
         <td>2021</td>
         <td>Elizabeth C. Miller and <b>Cristian Román-Palacios</b>. <i>Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity</i>. Global Ecology and Biogeography, 30:749-763.</td>
         <td>  <a href="2021_MillerRoman_freshwater.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1111/geb.13253" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>22</td>
         <td>2020</td>
         <td>Xiao-Yu Zhu, Guang-Yu Chen, <b>Cristian Román-Palacios</b>, Zheng Li, and Zhu-Qing He. Goniurosaurus gezhi, <i>a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)</i>. Zootaxa, 4852:211–222</td>
         <td>  <a href="ZhuEtAl2020.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.11646/zootaxa.4852.2.6" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>21</td>
         <td>2020</td>
         <td><b>Cristian Román-Palacios</b>, Yherson Franchesco Molina-Henao, and Michael S. Barker. <i>Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae</i>. Proceedings of the Royal Society B, 287:20200962.</td>
         <td>   <a href="Roman-Palaciosetal_Brassicaceae_2020.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1098/rspb.2020.0962" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>20</td>
         <td>2020</td>
         <td><b>Cristian Román-Palacios</b>, and John J. Wiens. 2020. <i>Recent responses to climate change reveal the drivers of species extinction and survival</i>. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217.</td>
         <td>   <a href="2020_Roman-Palacios_Wiens_PNAS.pdf">PDF</a>  </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1073/pnas.1913007117" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>19</td>
         <td>2019</td>
         <td><b>Cristian Román-Palacios</b>, Joshua Scholl, and John J. Wiens. 2019. <i>Evolution of diet across the Animal Tree of Life</i>. Evolution Letters, 4:339–347.</td>
         <td>  <a href="2019_Roman-Palacios_et_al_EvoLett_2019.pdf">PDF</a> </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1002/evl3.127" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>18</td>
         <td>2018</td>
         <td>Andreas L. Meyer, <b>Cristian Román-Palacios</b>, and John J. Wiens. 2018. <i>BAMM gives misleading results in simulated and empirical datasets</i>. Evolution, 72:2257–2266.</td>
         <td> <a href="2018_Meyer_et_al_Evol_2018_BAMM.pdf">PDF</a>  </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1111/evo.13574" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>17</td>
@@ -137,7 +137,7 @@ share: false
         <td>2018</td>
         <td><b>Cristian Román-Palacios</b>, Rosario Castañeda, and Jose Julian Tavera. 2018. <i>When did Anolis lizards diverge? A comparison of multiple dating strategies</i>. Molecular Phylogenetics and Evolution, 127:655-668.</td>
         <td>  <a href="2018_Roman-Palacios_et_al_Anolis.pdf">PDF</a>  </td>
-        <td><div data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+        <td><div data-badge-type="donut" data-doi="10.1016/j.ympev.2018.06.012" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>14</td>
