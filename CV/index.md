@@ -12,10 +12,11 @@ image:
 share: true
 ---
 
-[Download my CV](CV_Cristian_Roman_Palacios_Dec21.pdf)
+[Download my CV](CV_Cristian_Roman_Palacios_Jun13.pdf)
 
+https://drive.google.com/file/d/1jaDz0fzjGOX1VsroFVJhhE7-43ZTMd1D/view?usp=sharing
 
-<iframe src="https://drive.google.com/file/d/1f9Nza5Llg7HPAetp2ebTsaDnFkBj8qjS/preview" width="1000" height="800"></iframe>
+<iframe src="https://drive.google.com/file/d/1jaDz0fzjGOX1VsroFVJhhE7-43ZTMd1D/preview" width="1000" height="800"></iframe>
 
 
 
