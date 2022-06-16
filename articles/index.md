@@ -17,6 +17,15 @@ share: false
 
 <br />
 
+## Brief research statement
+
+I am an Ecologist and Evolutionary biologist interested in solving long-standing questions in biology using bioinformatic methods applied to large-scale datasets. In part, my passion for biology is inspired by many of my early childhood memories that share something in common – being amazed at hundreds of fish and invertebrate species that were studied by my father, an ichthyologist, on his collecting expeditions all over Colombia during the late 1990s. Natural history, biological diversity, and scientific research have always been close to my heart. Thus, after I began my graduate studies, many of my research questions were inspired by general observations on how species composition and richness vary across space and lineages. 
+
+My research interests range from conservation biology, field ecology to molecular phylogenetics, and biostatistics. I am also interested in fundamental aspects of biology including natural history, taxonomy, and systematics. I have published more than 25 papers on evolutionary biology, conservation biology, ecology, biostatistics, and climate change. Several of my papers were published in the journals PNAS, Proceedings B, Evolution, Journal of Biogeography, Evolution Letters, and Global Ecology and Biogeography.  Several have been featured in F1000, Science and many general news outlets including CNN, USA Today, Daily Mail, and The Independent. My research has also attracted the attention of politicians strongly committed to climate change and conservation, and school kids interested in knowing more about biology! 
+
+Thanks for visiting my website and reading my papers!
+
+
 ## Peer-reviewed articles
 
 <table>
