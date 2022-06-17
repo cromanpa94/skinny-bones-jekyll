@@ -77,7 +77,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Zheng Li</h2>
   <p align="center">
-  <img src="images/Li.jpeg" width="200">  <br> <br>
+  <img src="images/Li.jpg" width="200">  <br> <br>
   Postdoctoral Fellow, The University of Texas at Austin. <a href="https://scholar.google.com/citations?user=IIbLJpsAAAAJ&hl=en">Website</a>.
   </p>
 </div><!-- /.tile -->
@@ -167,7 +167,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Rob Ulrich</h2>
   <p align="center">
-  <img src="images/bio-photo-placeholder.png" width="200">  <br> <br>
+  <img src="images/Rob.jpg" width="200">  <br> <br>
   Graduate Student, Earth, Planetary and Space Sciences, University of California, Los Angeles. <a href="https://www.robertnulrich.com/">Website</a>.
   </p>
 </div><!-- /.tile -->
