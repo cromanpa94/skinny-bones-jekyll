@@ -28,9 +28,13 @@ Additionally, you are also expected to take 6 units of elective/certificate cour
 These mailing lists are only available to current students. We have four alternative lists that students can use to share information and interact.
 
 Si_msdsmain@list.arizona.edu
+
 Si_msdsonline@list.arizona.edu
+
 Si_msdsglobal@list.arizona.edu
+
 Si_allmsds@list.arizona.edu
+
 
 ### I'm interested in taking an elective that is not listed in the website
 
