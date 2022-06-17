@@ -19,6 +19,6 @@ share: true
 
 
 <p align="center">
-  <b>Updated in Dec, 2021</b><br>
+  <b>Updated in Summer, 2022</b><br>
   <b>  </b><br>
 </p>
