@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Biography</h2>
-  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I received my bachelor's degree from Universidad del Valle, in Cali, Colombia and Ph.D. from the University of Arizona in Tucson, AZ. 
+  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I received my bachelor's degree from Universidad del Valle, in Cali, Colombia and Ph.D. from the University of Arizona in Tucson, AZ. </p> 
 </div><!-- /.tile -->
 
 <div class="tile">
