@@ -19,7 +19,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Who1</h2>
   <p align="center">
-  <img src="Photos/test.jpg" width="200">  <br> <br>
+  <img src="images/bio-photo.jpg" width="200">  <br> <br>
   XXXX
   </p>
 </div><!-- /.tile -->
