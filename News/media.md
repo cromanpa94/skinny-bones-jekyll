@@ -85,3 +85,7 @@ This list is not extensive and I will keep updating it.
 | # | Year | Document | Link |
 |:-:|:-:|:-:|:-:|
 | **1** | 2020 | **By Gemma Conroy**. *Front line scientists call for mental health support in the wake of catastrophic ecosystem loss*. Nature index | [Link](https://www.natureindex.com/news-blog/more-help-needed-for-scientists-on-the-front-line-of-ecosystem-loss) |
+| **2** | 2022 | **By Gemma Conroy**. *After the MLIS*. Library Journal | [Link]([https://www.natureindex.com/news-blog/more-help-needed-for-scientists-on-the-front-line-of-ecosystem-loss](https://www.libraryjournal.com/story/news/after-the-mlis)) |
+
+
+
