@@ -14,13 +14,9 @@ share: true
 
 Please follow the links below for information on the following aspects:
 
-- [Teaching](Teaching.md)
+- [Teaching experience](Teaching.md)
+- [Social contract - students](contract.md)
+- [MS in Data Science - UArizona](iSchool.md)
 - [Talks](Talks.md)
 - [R packages](code.md)
 - [Blog](Blog.md)
-
-
-
-
-
-
