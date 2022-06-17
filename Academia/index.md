@@ -17,6 +17,7 @@ Please follow the links below for information on the following aspects:
 - [Teaching experience](Teaching.md)
 - [Social contract - students](contract.md)
 - [Applying to the MS in Data Science - UArizona](iSchool_app.md)
+- [Brief info for current students in the MSDS - UArizona](iSchool_current.md)
 - [Talks](Talks.md)
 - [R packages](code.md)
 - [Blog](Blog.md)
