@@ -21,3 +21,4 @@ Please follow the links below for information on the following aspects:
 - [Talks](Talks.md)
 - [R packages](code.md)
 - [Blog](Blog.md)
+- [LibRillo de R y Biologia](librilloBio.md)
