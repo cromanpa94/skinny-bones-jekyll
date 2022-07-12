@@ -36,38 +36,45 @@ Thanks for visiting my website and reading my papers!
         <td>Link</td>
         <td>Coverage</td>
     </tr>
+      <tr>
+        <td>31</td>
+        <td>2022</td>
+        <td>Shi-Yang Wu, Xiao-Yu Zhu, Yi-Jiao Liu, Gustavo Silva De Miranda, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i> A new species of whip spider, Sarax sinensis sp. nov., from Fujian, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5162: 397-409.</td>
+        <td> <a href="2022_WuEtAl_SS.pdf">PDF</a> </td>
+        <td>  </td>
+    </tr>
     <tr>
         <td>30</td>
         <td>2022</td>
-        <td><b>Cristian Román-Palacios</b>, Daniela Moraga-Lopez, and John J. Wiens. <i>The origins of global biodiversity on land, sea, and freshwater.</i> Ecology Letters.</td>
+        <td><b>Cristian Román-Palacios</b>, Daniela Moraga-Lopez, and John J. Wiens. <i>The origins of global biodiversity on land, sea, and freshwater.</i> Ecology Letters, 25: 1376-1386</td>
         <td> <a href="Roman-Palacios_et_al._EL_2022.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1111/ele.13999" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>29</td>
         <td>2021</td>
-        <td><b>Cristian Román-Palacios</b>, April Wright, and Josef Uyeda. <i>treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.</i> PeerJ 9: e12450.</td>
+        <td><b>Cristian Román-Palacios</b>, April Wright, and Josef Uyeda. <i>treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.</i> PeerJ, 9: e12450.</td>
         <td> <a href="2021_Roman-Palacios_treedata.table.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.7717/peerj.12450" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>28</td>
         <td>2021</td>
-        <td>Xiao-Yu, Zhu, Shi-Yang Wu, S. Y., Yi-Juao Liu, Chris R. Reardon, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i>A new species of whip spider, Weygoldtia hainanensis sp. nov., from Hainan, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5082(1), 65-76.</td>
+        <td>Xiao-Yu, Zhu, Shi-Yang Wu, S. Y., Yi-Juao Liu, Chris R. Reardon, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i>A new species of whip spider, Weygoldtia hainanensis sp. nov., from Hainan, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5082, 65-76.</td>
         <td> <a href="2021_Zhu_Weygoldtia.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.11646/zootaxa.5082.1.6" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>27</td>
         <td>2021</td>
-        <td>Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. Goniurosaurus chengzheng <i>sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)</i>. Zootaxa 996(3), 540–554, 10.11646/zootaxa.4996.3.8.</td>
+        <td>Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. Goniurosaurus chengzheng <i>sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)</i>. Zootaxa, 996, 540–554, 10.11646/zootaxa.4996.3.8.</td>
         <td> <a href="2021ZhuEtAl.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.11646/zootaxa.4996.3.8" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>26</td>
         <td>2021</td>
-        <td><b>Cristian Román-Palacios</b>, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. <i>Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants</i>. Journal of Evolutionary Biology, 10.1111/jeb.13884.</td>
+        <td><b>Cristian Román-Palacios</b>, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. <i>Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants</i>. Journal of Evolutionary Biology, 34:1333–1339.</td>
         <td>  <a href="RomanPalaciosetal2021.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1111/jeb.13884" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
@@ -81,7 +88,7 @@ Thanks for visiting my website and reading my papers!
     <tr>
         <td>24</td>
         <td>2021</td>
-        <td>Tania Hernández-Hernández, Elizabeth C. Miller, <b>Cristian Román-Palacios</b>, and John J. Wiens. 2021. <i>Speciation across the Tree of Life</i>. Biological Reviews, Early View</td>
+        <td>Tania Hernández-Hernández, Elizabeth C. Miller, <b>Cristian Román-Palacios</b>, and John J. Wiens. 2021. <i>Speciation across the Tree of Life</i>. Biological Reviews, 96:1205-1242</td>
         <td> <a href="HernandezHernandezEtAl2021.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1111/brv.12698" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
@@ -109,7 +116,7 @@ Thanks for visiting my website and reading my papers!
     <tr>
         <td>20</td>
         <td>2020</td>
-        <td><b>Cristian Román-Palacios</b>, and John J. Wiens. 2020. <i>Recent responses to climate change reveal the drivers of species extinction and survival</i>. Proceedings of the National Academy of Sciences, U.S.A. 117:4211–4217.</td>
+        <td><b>Cristian Román-Palacios</b>, and John J. Wiens. 2020. <i>Recent responses to climate change reveal the drivers of species extinction and survival</i>. Proceedings of the National Academy of Sciences, U.S.A., 117:4211–4217.</td>
         <td>   <a href="2020_Roman-Palacios_Wiens_PNAS.pdf">PDF</a>  </td>
         <td><div data-badge-type="donut" data-doi="10.1073/pnas.1913007117" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
@@ -151,7 +158,7 @@ Thanks for visiting my website and reading my papers!
     <tr>
         <td>14</td>
         <td>2018</td>
-        <td><b>Cristian Román-Palacios</b>, Jakob Damgaard, Lanna Cheng, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir, and Herbert Zettle. 2018. <i>Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae)</i>. Journal of Insect Systematics and Evolution,  51:139–240.</td>
+        <td><b>Cristian Román-Palacios</b>, Jakob Damgaard, Lanna Cheng, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir, and Herbert Zettle. 2018. <i>Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae)</i>. Journal of Insect Systematics and Evolution, 51:139–240.</td>
         <td> <a href="2018_Roman-Palacios_et_al._Halobatinae.pdf">PDF</a>  </td>
         <td><div data-badge-type="donut" data-doi="10.1163/1876312x-00002197" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
