@@ -19,9 +19,7 @@ share: false
 
 ## Brief research statement
 
-I am an Ecologist and Evolutionary biologist interested in solving long-standing questions in biology using bioinformatic methods applied to large-scale datasets. In part, my passion for biology is inspired by many of my early childhood memories that share something in common – being amazed at hundreds of fish and invertebrate species that were studied by my father, an ichthyologist, on his collecting expeditions all over Colombia during the late 1990s. Natural history, biological diversity, and scientific research have always been close to my heart. Thus, after I began my graduate studies, many of my research questions were inspired by general observations on how species composition and richness vary across space and lineages. 
-
-My research interests range from conservation biology, field ecology to molecular phylogenetics, and biostatistics. I am also interested in fundamental aspects of biology including natural history, taxonomy, and systematics. I have published more than 25 papers on evolutionary biology, conservation biology, ecology, biostatistics, and climate change. Several of my papers were published in the journals PNAS, Proceedings B, Evolution, Journal of Biogeography, Evolution Letters, and Global Ecology and Biogeography.  Several have been featured in F1000, Science and many general news outlets including CNN, USA Today, Daily Mail, and The Independent. My research has also attracted the attention of politicians strongly committed to climate change and conservation, and school kids interested in knowing more about biology! 
+I am an Ecologist and Evolutionary biologist interested in solving long-standing questions in biology using bioinformatic methods applied to large-scale datasets. My research interests range from conservation biology, field ecology to molecular phylogenetics, and biostatistics. I am also interested in fundamental aspects of biology including natural history, taxonomy, and systematics. I have published more than 30 papers on evolutionary biology, conservation biology, ecology, biostatistics, and climate change. Several of my papers were published in the journals PNAS, Proceedings B, Evolution, Journal of Biogeography, Evolution Letters, and Global Ecology and Biogeography.  Several have been featured in F1000, Science and many general news outlets including CNN, USA Today, Daily Mail, and The Independent. My research has also attracted the attention of politicians strongly committed to climate change and conservation, and school kids interested in knowing more about biology! 
 
 Thanks for visiting my website and reading my papers!
 
@@ -35,6 +33,13 @@ Thanks for visiting my website and reading my papers!
         <td>Paper</td>
         <td>Link</td>
         <td>Coverage</td>
+    </tr>
+        <tr>
+        <td>32</td>
+        <td>2022</td>
+        <td>Xiao-Yu Zhu. Shi-Yang Wu, Yi-Jiao Liu, Yun Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i> Goniurosaurus wangshu sp. nov., a new species of Tiger Gecko from Guangdong, China (Squamata: Eublepharidae)</i> Zootaxa, 5188: 544-558.</td>
+        <td> <a href="ZhuEtAl_Gwangshu.pdf">PDF</a> </td>
+        <td>  </td>
     </tr>
       <tr>
         <td>31</td>
