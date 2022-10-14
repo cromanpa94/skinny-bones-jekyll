@@ -8,11 +8,13 @@
   url: /articles/
 - title: CV
   url: /CV/
-- title: Academia+
-  url: /Academia/
-- title: People
-  url: /People/
-- title: Outreach
-  url: /Outreach/
+- title: Lab
+  url: /Lab/
+- title: Collaborators
+  url: /Collaborators/
+- title: Blog
+  url: /Blog/
 - title: Contact!
   url: /contact/
+
+

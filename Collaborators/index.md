@@ -78,7 +78,7 @@ share: true
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Zheng Li</h2>
   <p align="center">
   <img src="images/Li.jpg" width="200">  <br> <br>
-  Postdoctoral Fellow, The University of Texas at Austin. <a href="https://scholar.google.com/citations?user=IIbLJpsAAAAJ&hl=en">Website</a>.
+  Postdoctoral Fellow, The University of Texas at Austin. <a href="https://zhengli1688.weebly.com/">Website</a>.
   </p>
 </div><!-- /.tile -->
 
@@ -171,15 +171,6 @@ share: true
   Graduate Student, Earth, Planetary and Space Sciences, University of California, Los Angeles. <a href="https://www.robertnulrich.com/">Website</a>.
   </p>
 </div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Wonkyun Yim</h2>
-  <p align="center">
-  <img src="images/Wonkyun.jpg" width="200">  <br> <br>
-  MS Information Science (2022) – Staff Researcher at Roman's lab, Fall 2022. Project: A novel Machine Learning Framework to understand species-level extinctions from synthetic populations.
-  </p>
-</div><!-- /.tile -->
-
 
 
 </div><!-- /.tiles -->

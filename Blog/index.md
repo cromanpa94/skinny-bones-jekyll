@@ -22,3 +22,18 @@ Please follow the links below for information on the following aspects:
 - [R packages](code.md)
 - [Blog](Blog.md)
 - [LibRillo de R y Biologia](librilloBio.md)
+
+
+Please follow the links below for information on the following aspects:
+
+- [Non-academic outreach](nonacademicOut.md)
+- [Academic outreach](academicOut.md)
+- [How to apply to a PhD in the US](PhDUSA.md)
+- [My personal and non extensive list of books, documentaries etc](readings.md)
+
+
+[1. Public higher education funding in Colombia: inefficient, inequitable, and outdated](B.ColEd.md)
+[2. Convocatorias docentes en Colombia](c.Convocatorias.md)
+
+
+- [Apostilla](Apostilla.md)
