@@ -17,14 +17,6 @@ share: true
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Cristian Román Palacios</h2>
-  <p align="center">
-  <img src="images/Cristian.jpeg" width="200">  <br> <br>
-  Assistant Professor of Practice, School of Information, University of Arizona. Early Career fellow at the Center for Diverse Leadership in Science, University of California, Los Angeles. <a href="https://cromanpa94.github.io/cromanpa//CV/">CV</a>.
-  </p>
-</div><!-- /.tile -->
-
-<div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Aradhna Tripati</h2>
   <p align="center">
   <img src="images/Aradhna.jpg" width="200">  <br> <br>
@@ -48,6 +40,14 @@ share: true
   </p>
 </div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Lanna Cheng</h2>
+  <p align="center">
+  <img src="images/Lanna.jpg" width="200">  <br> <br>
+  Emeritus Marine Biology Research Division, Scripps Institution of Oceanography UC San Diego. <a href="https://lcheng.scrippsprofiles.ucsd.edu/">Website</a>.
+  </p>
+</div><!-- /.tile -->
+
 
 </div><!-- /.tiles -->
 
@@ -57,14 +57,6 @@ share: true
 
 
 <div class="tiles">
-
-<div class="tile">
-  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Lanna Cheng</h2>
-  <p align="center">
-  <img src="images/Lanna.jpg" width="200">  <br> <br>
-  Emeritus Marine Biology Research Division, Scripps Institution of Oceanography UC San Diego. <a href="https://lcheng.scrippsprofiles.ucsd.edu/">Website</a>.
-  </p>
-</div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Elizabeth C. Miller</h2>
@@ -91,6 +83,13 @@ share: true
 
 </div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Ranulfo Gonzalez Obando</h2>
+  <p align="center">
+  <img src="images/Ranulfo.jpg" width="200">  <br> <br>
+  Profesor Titular, Departamento de Biologia, Universidad del Valle, Colombia. <a href="https://ciencias.univalle.edu.co/departamento-de-biologia/docentes/ranulfo-gonzalez">Website</a>.
+  </p>
+</div><!-- /.tile -->
 
 </div><!-- /.tiles -->
 
@@ -102,13 +101,7 @@ share: true
 
 <div class="tiles">
 
-<div class="tile">
-  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Ranulfo Gonzalez Obando</h2>
-  <p align="center">
-  <img src="images/Ranulfo.jpg" width="200">  <br> <br>
-  Profesor Titular, Departamento de Biologia, Universidad del Valle, Colombia. <a href="https://ciencias.univalle.edu.co/departamento-de-biologia/docentes/ranulfo-gonzalez">Website</a>.
-  </p>
-</div><!-- /.tile -->
+
 
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Jose Tavera</h2>
@@ -134,6 +127,14 @@ share: true
   </p>
 </div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Alexandrea Arnold</h2>
+  <p align="center">
+  <img src="images/Alex.jpg" width="200">  <br> <br>
+  Graduate Student, Atmospheric and Oceanic Sciences, University of California, Los Angeles. <a href="https://www.ioes.ucla.edu/person/alexandrea-arnold/">Website</a>.
+  </p>
+</div><!-- /.tile -->
+
 
 </div><!-- /.tiles -->
 
@@ -143,16 +144,7 @@ share: true
  <br> <br> <br> <br>
 
 
-
 <div class="tiles">
-
-<div class="tile">
-  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Alexandrea Arnold</h2>
-  <p align="center">
-  <img src="images/Alex.jpg" width="200">  <br> <br>
-  Graduate Student, Atmospheric and Oceanic Sciences, University of California, Los Angeles. <a href="https://www.ioes.ucla.edu/person/alexandrea-arnold/">Website</a>.
-  </p>
-</div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Hannah Carroll</h2>

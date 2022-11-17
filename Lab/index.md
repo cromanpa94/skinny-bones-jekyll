@@ -47,33 +47,11 @@ share: true
   Valentina is a MsC student in Biological Sciences at Universidad del Valle, Colombia. She is primarily interested in the systematics of neotropical insects.
   </p>
 </div><!-- /.tile -->
-
-
-<br> <br> <br> <br>
-<div class="tiles">
-## Past members
-</div><!-- /.tile -->
-
-<div class="tiles">
-
-<div class="tile">
-  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Wonkyun Yim</h2>
-  <p align="center">
-  <img src="images/Wonkyun.jpg" width="200">  <br> <br>
-  MS Information Science (2022) – Staff Researcher at Roman's lab, Fall 2022. Project: A novel Machine Learning Framework to understand species-level extinctions from synthetic populations.
-  </p>
-</div>
-
-<div class="tile">
-  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Quan Gan</h2>
-  <p align="center">
-  <img src="images/Quan.jpg" width="200">  <br> <br>
-  [Placeholder]. <a href="https://www.linkedin.com/in/quan-gan-028a78172">Website</a>.
-  </p>
-</div><!-- /.tile -->
-</div><!-- /.tile -->
 </div><!-- /.tiles -->
 
+------------------
 
- <br> <br> <br> <br>
+## Past members
+
+
 
