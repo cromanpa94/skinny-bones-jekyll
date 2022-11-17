@@ -47,12 +47,12 @@ share: true
   Valentina is a MsC student in Biological Sciences at Universidad del Valle, Colombia. She is primarily interested in the systematics of neotropical insects.
   </p>
 </div><!-- /.tile -->
-</div>
 
 
- <br> <br> <br> <br>
-
+<br> <br> <br> <br>
+<div class="tiles">
 ## Past members
+</div><!-- /.tile -->
 
 <div class="tiles">
 
