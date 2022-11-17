@@ -27,7 +27,6 @@ image:
 <div class="tile">
   <h2 class="post-title" style="text-align: center; width: 100%;" itemprop="headline">Recent visitors!</h2>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=OyIN&d=ipkSndE8_XFxOZZl00Ta_2fSaEztt1OMQcXl1Lh2LTQ"></script>
-<a title="Web Analytics" href="http://clicky.com/101328719"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>\
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
