@@ -14,7 +14,7 @@ share: true
 
 <div class="tiles">
 <div class="tile">
-<h1 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Current members</h2>
+<h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Current members</h2>
 </div><!-- /.tile -->
 </div>
 
@@ -57,7 +57,7 @@ share: true
 
 <div class="tiles">
 <div class="tile">
-<h1 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Past members</h2>
+<h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Past members</h2>
 </div><!-- /.tile -->
 </div>
 
