@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Cristian Román-Palacios
+title: Román-Palacios Lab
 description: "Cristian Román-Palacios's personal website"
 logo: 120x120.gif
 teaser: 400x250.gif
@@ -38,8 +38,8 @@ titlecase: true
 # Site owner
 owner:
   name: Cristian Román-Palacios
-  email: cromanpa94@email.arizona.edu
-  bio: "Postdoctoral researcher"
+  email: cromanpa94@arizona.edu
+  bio: "Assistant professor of practice"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: 

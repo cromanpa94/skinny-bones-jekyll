@@ -14,7 +14,7 @@ share: true
 
 <div class="tiles">
 <div class="tile">
-<h1 class="post-title"  style="background-color:powderblue; text-align: center; width: 450%; font-size:50px;" itemprop="headline">Current members</h1>
+<h1 class="post-title"  style="background-color:powderblue; text-align: center; width: 420%; font-size:50px;" itemprop="headline">Current members</h1>
 </div><!-- /.tile -->
 </div>
 
@@ -23,7 +23,7 @@ share: true
   <h2 class="post-title"  style="background-color:lightgrey; text-align: center; width: 100%;" itemprop="headline">Cristian Román Palacios</h2>
   <p align="center">
   <img src="images/Cristian.jpg" width="200">  <br> <br>
-  Assistant Professor of Practice, School of Information, University of Arizona. Early Career fellow at the Center for Diverse Leadership in Science, University of California, Los Angeles. Cristian's research is focused on the intersection between evolutionary biology, climate change, and applied machine learning. <a href="https://cromanpa94.github.io/cromanpa//CV/">CV</a>.
+  PI. Assistant Professor of Practice, School of Information, University of Arizona. Early Career fellow at the Center for Diverse Leadership in Science, University of California, Los Angeles. Cristian's research is focused on the intersection between evolutionary biology, climate change, and applied machine learning. <a href="https://cromanpa94.github.io/cromanpa//CV/">Updated CV</a>.
   </p>
 </div><!-- /.tile -->
 
@@ -57,7 +57,7 @@ share: true
 
 <div class="tiles">
 <div class="tile">
-<h2 class="post-title"  style="background-color:powderblue; text-align: center; width: 450%; font-size:50px;" itemprop="headline">Past members</h2>
+<h2 class="post-title"  style="background-color:powderblue; text-align: center; width: 420%; font-size:50px;" itemprop="headline">Past members</h2>
 </div><!-- /.tile -->
 </div>
 
