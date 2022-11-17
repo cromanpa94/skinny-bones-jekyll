@@ -12,6 +12,16 @@ image:
 share: true
 ---
 
+<div class="tiles">
+<div class="tile">
+  <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Cristian Román Palacios</h2>
+  <p align="center">
+  <img src="images/Cristian.jpg" width="200">  <br> <br>
+  Assistant Professor of Practice, School of Information, University of Arizona. Early Career fellow at the Center for Diverse Leadership in Science, University of California, Los Angeles. Cristian's research is focused on the intersection between evolutionary biology, climate change, and applied machine learning. <a href="https://cromanpa94.github.io/cromanpa//CV/">CV</a>.
+  </p>
+</div><!-- /.tile -->
+</div>
+
 ## Current members
 
 <div class="tiles">
