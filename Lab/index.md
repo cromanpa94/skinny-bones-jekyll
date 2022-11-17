@@ -28,7 +28,7 @@ share: true
   <h2 class="post-title"  style="text-align: center; width: 100%;" itemprop="headline">Danielle Van Boxel</h2>
   <p align="center">
   <img src="images/danielle_vb_profile.jpg" width="200">  <br> <br>
-  Danielle Van Boxel is a third year Ph.D. student in Applied Math at the University of Arizona and Senior Data Scientist with the Rincon Research Corporation. She previously worked in government for a decade generating and analyzing statistics to discover anomalies and patterns in seemingly random data. Her current research focuses on Bayesian methods in ensemble machine learning. In her free time, Danielle enjoys bird watching, tabletop RPGs, and making math puns. <a href="https://appliedmath.arizona.edu/person/danielle-van-boxel">Website</a>.
+  Danielle Van Boxel is a third year Ph.D. student in Applied Math at the University of Arizona and Senior Data Scientist with the Rincon Research Corporation. She previously worked in government for a decade generating and analyzing statistics to discover anomalies and patterns in seemingly random data. Her current research focuses on Bayesian methods in ensemble machine learning. In her free time, Danielle enjoys bird watching, tabletop RPGs, and making math puns. <a href="https://appliedmath.arizona.edu/person/danielle-van-boxel">Website</a>, <a href="https://www.youtube.com/@DanVanBoxel">YouTube</a>.
   </p>
 </div><!-- /.tile -->
 
@@ -47,8 +47,7 @@ share: true
   Valentina is a MsC student in Biological Sciences at Universidad del Valle, Colombia. She is primarily interested in the systematics of neotropical insects.
   </p>
 </div><!-- /.tile -->
-
-
+</div>
 
 
  <br> <br> <br> <br>
@@ -72,14 +71,8 @@ share: true
   [Placeholder]. <a href="https://www.linkedin.com/in/quan-gan-028a78172">Website</a>.
   </p>
 </div><!-- /.tile -->
-
-
 </div><!-- /.tile -->
-
-
 </div><!-- /.tiles -->
-
-
 
 
  <br> <br> <br> <br>
