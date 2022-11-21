@@ -20,5 +20,6 @@ ads: false
   Email: <a href="mailto:cromanpa@arizona.edu">cromanpa94@arizona.edu</a><br>  
   Twitter: <a href="https://twitter.com/cromanpa">@cromanpa</a><br/>
   Linkedin: <a href="https://www.linkedin.com/in/cromanpa/">Cristian Román-Palacios</a><br/>
-  Skype: live:crp-50_1
+  Skype: live:crp-50_1<br/>
+  Mastodon: <a rel="me" href="https://ecoevo.social/@cromanpa">@cromanpa@ecoevo.social</a>
 </p>
