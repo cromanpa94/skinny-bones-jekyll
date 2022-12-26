@@ -17,10 +17,24 @@ This is a brief summary of some highlights!!
 {% include toc.html %}
 
 ## 2022
+
+### Fall 2022
+- Kyle Clements joined the lab to collect data on census track-related datasets across the globe.
+- Salena Ashton has been working as a Dats Science fellow at the Data Science institute – generating strategies to increase access to workshops and other DS-related events at the University.
+- Laura Palacios has been working in my lab, also co-advised by Maliaca G Oxnam at the Data Science institute (UArizona) on a project implementing machine learning models to understand E. coli levels in the Santa Cruz river.
+- Eastern Kang Sim completed their capstone project on a reproducible pipeline for conducting social sciences research (co-adviced by Dr. Javier Osorio at the School of Government and Public Policy). 
+- Kyle Arechiga has joined the lab to work on unsupervised learning tasks.
+- Danielle Van Boxel officially joined the lab to work on BARN.
+- Wonkyun Yim was hired as staff researcher in my lab!
+- Our paper with Quan Gan was submitted to G-cubed!
+
+### Summer 2022
+- Expressed interest for the Build and Broaden program at NSF: https://beta.nsf.gov/events/build-broaden-program-office-hours
+- Cristian taught a python intro workshop along with the Youth Education and Empowerment in STEM group at UCLA.
+
 ### Spring 2022
 - Wonkyun Yim will start his internship in my lab!
 - Quan Gan will start his internship in my lab!
-
 
 ## 2021
 ### Fall 2021
