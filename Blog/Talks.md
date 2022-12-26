@@ -16,6 +16,44 @@ ads: false
 
 &nbsp;
 
+
+
+### AfroColombian of the Year (Fall 2022)
+
+<p align="center">
+I was named "Afro-Colombian" of the Year by the oldest newspaper in Colombia and Fundacion Color de Colombia. I gave a brief speech, in Spanish. You can check out the whole event in the following <a href="https://youtu.be/YVjypFlp9mM?t=1658">Link</a>
+</p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+### PRE-ICFES pa'l Barrio (Fall 2021)
+
+<p align="center">
+I help put together a fraction of the slides and discussion + recording on Biology, particularly focused on how to understand phylogenetic trees. In Spanish. <a href="https://youtu.be/LGrBMnf5PhM?t=3194">Link</a>
+</p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+### Devolver con Ciencia – que hace un Biologo (Fall 2021)
+
+<p align="center">
+I have a brief talk to high schoolers on my career path, reseaech etc. In Spanish. <a href="https://www.youtube.com/watch?v=zBIVzv_jciI">Link</a>
+</p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
 ### Marine Biology short podcast (Fall 2020)
 
 <p align="center">

@@ -11,7 +11,7 @@ share: true
 ads: false
 ---
 
-Enlaces a instituciones con programas de Biologia en Colombia con posibles vacantes:
+Enlaces a instituciones con programas de Biologia en Colombia con posibles vacantes. Como sugerencia, aplicar a estos puestos con la asesoria de un(a) abogad@. La primera fase de revisiones NO es realizada por academicos. Es una fase mas juridica que otra cosa.
 
 *****
 
@@ -54,12 +54,6 @@ Enlaces a instituciones con programas de Biologia en Colombia con posibles vacan
 [Universidad Central](https://www.ucentral.edu.co/docentes/convocatorias-facultad-ingenieria-ciencias-basicas)
 
 [Universidad EAFIT](https://www.elempleo.com/sitios-empresariales/colombia/universidad-eafit/quieres_trabajar_nosotros.asp)	
-
-
-
-
-
-
 
 
 **Intituciones adicionales con poca información:**

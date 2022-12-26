@@ -21,6 +21,8 @@ My goal is to show students that the training they gain in coursework (e.g. intr
 
 ## Teaching experience
 
+This section will be updated in 2023!
+
 | # | Semester | Course | Role | Students |
 |-|-|:-:|:-:|:-:|
 | **9** | 2020-Summer | Genetics (ECOL-320) | Mostly grading | 50 |
