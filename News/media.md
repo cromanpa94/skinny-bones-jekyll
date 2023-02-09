@@ -23,8 +23,8 @@ This list is not extensive and I will keep updating it.
 | # | Year | Document | Link |
 |:-:|:-:|:-:|:-:|
 | **1** | 2020 | **By Gemma Conroy**. *Front line scientists call for mental health support in the wake of catastrophic ecosystem loss*. Nature index | [Link](https://www.natureindex.com/news-blog/more-help-needed-for-scientists-on-the-front-line-of-ecosystem-loss) |
-| **2** | 2022 | **By Jennifer A. Dixon**. *After the MLIS*. Library Journal | [Link](https://www.libraryjournal.com/story/news/after-the-mlis)) |
-| **3** | 2022 | *Afro-Colombian of the Year, 2022 (STEM)*. Library Journal | [Link]([https://www.elespectador.com/colombia/mas-regiones/nominados-y-ganadores-en-la-gala-de-los-afrocolombianos-del-ano-2022/) |
+| **2** | 2022 | **By Jennifer A. Dixon**. *After the MLIS*. Library Journal | [Link](https://www.libraryjournal.com/story/news/after-the-mlis) |
+| **3** | 2022 | *Afro-Colombian of the Year, 2022 (STEM)*. Library Journal | [Link](https://www.elespectador.com/colombia/mas-regiones/nominados-y-ganadores-en-la-gala-de-los-afrocolombianos-del-ano-2022/) |
 
 
 
