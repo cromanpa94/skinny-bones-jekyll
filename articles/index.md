@@ -37,7 +37,7 @@ Thanks for visiting my website and reading my papers!
           <tr>
         <td>33</td>
         <td>2023</td>
-        <td><b>Cristian Román-Palacios</b>. The <i>phruta</i> R package and salphycon shiny app: increasing access, reproducibility, and transparency in phylogenetic analyses. bioRxiv.</td>
+        <td><b>Cristian Román-Palacios</b>. The <i>phruta</i> R package and salphycon shiny app: increasing access, reproducibility, and transparency in phylogenetic analyses. Accepted in Methods in Ecology and Evolution.</td>
         <td> <a href="https://www.biorxiv.org/content/10.1101/2023.01.11.523621v1">Link</a> </td>
         <td>  </td>
     </tr>
