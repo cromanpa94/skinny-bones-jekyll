@@ -23,7 +23,7 @@ share: true
   <h2 class="post-title"  style="background-color:lightgrey; text-align: center; width: 100%;" itemprop="headline">Cristian Román Palacios</h2>
   <p align="justify">
   <img src="images/Cristian.jpg" width="250">  <br> <br>
-  PI. Assistant Professor of Practice, School of Information, University of Arizona. Early Career fellow at the Center for Diverse Leadership in Science, University of California, Los Angeles. Cristian's research is focused on the intersection between evolutionary biology, climate change, and applied machine learning. He is generally interested in answering questions in Evolutionary Biology and developing methods and tools for different fields. <a href="https://cromanpa94.github.io/cromanpa//CV/">Updated CV</a>.
+  PI. Assistant Professor, School of Information, University of Arizona. Early Career fellow at the Center for Diverse Leadership in Science, University of California, Los Angeles. Cristian's research is focused on the intersection between evolutionary biology, climate change, and applied machine learning. He is generally interested in answering questions in Evolutionary Biology and developing methods and tools for different fields. <a href="https://cromanpa94.github.io/cromanpa//CV/">Updated CV</a>.
   </p>
 </div><!-- /.tile -->
 
