@@ -16,6 +16,18 @@ This is a brief summary of some highlights!!
 
 {% include toc.html %}
 
+## 2023
+### Spring 2023
+- Cristian accepted a Tenure Track faculty position at the School of Information!
+- Seed grant funded: [Mackenzie Waller](https://capla.arizona.edu/faculty-staff/mackenzie-waller) and I received ~20k from CAPLA (College of Architecture, Planning and Landscape Architecture) at UA towards working on open access software for formal planning. The app is still under development and can be foung [here](https://github.com/RomanPalacios-lab/BarrioMap).
+- See grand funded: [Chris Lim](https://publichealth.arizona.edu/directory/chris-lim) and I received ~50k for conducting research on the [impacts of power outages on human healt in the US](https://bbcs.arizona.edu/projects-papers).
+- We're [hiring](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16245?c=arizona) our first staff member for Fall 2023/Spring 2024!
+- Danielle van Boxel, PhD candidate at the Applied Math department and who I co-advice, passed her COMPS and is moving forward with BARN/BARM!
+- [Lia Ossana](https://nature.arizona.edu/lia-ossanna), PhD at the School of Natural Resources, passed her COMPS!
+- [Reza Ehsani](https://has.arizona.edu/person/reza-ehsani) defended at the end of the semester, obtained his Ms in Data Science at the iSchool, and moved to San Francisco to start a Data Science position at [Zipline](https://www.flyzipline.com/).
+- [Laura Falk](https://laurafalk.github.io/) (got married yay!! and changed her last name) completed her MsC in Data Science at the iSchool and presented at the [Santa Cruz River Research Days](https://sonoraninstitute.org/2022/scrrdr22/). Check out her capstone project [here](https://laurafalk.github.io/SantaCruzPredictions.html).
+
+
 ## 2022
 
 ### Fall 2022
