@@ -24,6 +24,7 @@ I am an Ecologist and Evolutionary biologist interested in solving long-standing
 Thanks for visiting my website and reading my papers!
 
 
+
 ## Papers and columns
 
 <table>
@@ -38,7 +39,7 @@ Thanks for visiting my website and reading my papers!
         <td>34</td>
         <td>2023</td>
         <td><b>Cristian Román-Palacios</b>. The <i>phruta</i> R package and salphycon shiny app: increasing access, reproducibility, and transparency in phylogenetic analyses. Accepted in Methods in Ecology and Evolution.</td>
-        <td> <a href="https://www.biorxiv.org/content/10.1101/2023.01.11.523621v1">Link</a> </td>
+        <td> <a href="2023_phruta_MEE.pdf">PDF</a> </td>
         <td>  </td>
     </tr>
         <tr>
