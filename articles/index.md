@@ -35,10 +35,24 @@ Thanks for visiting my website and reading my papers!
         <td>Link</td>
         <td>Coverage</td>
     </tr>
+    <tr>
+        <td>36</td>
+        <td>2023</td>
+        <td>Yin Wen,  Qing Ye, <b>Cristian Román-Palacios</b>, Hui Liu, Guilin Wu. <i>Physiological cold tolerance evolves faster than climatic niches in plants</i>. Accepted at Frontiers in Plant Sciences.</td>
+        <td>  </td>
+        <td>  </td>
+    </tr>
+          <tr>
+        <td>35</td>
+        <td>2023</td>
+        <td><b>Cristian Román-Palacios</b>. <i>Digest: Unveiling the role of chemical communication in lizard diversification</i>. Evolution, qpad148.</td>
+        <td> <a href="https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpad148/7246297">PDF</a> </td>
+        <td>  </td>
+    </tr>
           <tr>
         <td>34</td>
         <td>2023</td>
-        <td><b>Cristian Román-Palacios</b>. The <i>phruta</i> R package and salphycon shiny app: increasing access, reproducibility, and transparency in phylogenetic analyses. Accepted in Methods in Ecology and Evolution.</td>
+        <td><b>Cristian Román-Palacios</b>. The <i>phruta</i> R package: increasing access, reproducibility, and transparency in phylogenetic analyses. Methods in Ecology and Evolution.</td>
         <td> <a href="2023_phruta_MEE.pdf">PDF</a> </td>
         <td>  </td>
     </tr>
