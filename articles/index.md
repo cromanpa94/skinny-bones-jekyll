@@ -80,7 +80,7 @@ Thanks for visiting my website and reading my papers!
     <tr>
         <td>30</td>
         <td>2021</td>
-        <td><b>Cristian Román-Palacios</b>, April Wright, and Josef Uyeda. 2021. <i>treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.</i> PeerJ, 9:e12450.</td>
+        <td><b>Cristian Román-Palacios</b>, April Wright, and Josef Uyeda. 2021. <i>treedata.table: a wrapper for data.table that enables fast manipulation of large phylogenetic trees matched to data.</i> PeerJ, 9:e12450.</td>
         <td> <a href="2021_Roman-Palacios_treedata.table.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.7717/peerj.12450" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
