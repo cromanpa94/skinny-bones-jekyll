@@ -38,105 +38,105 @@ Thanks for visiting my website and reading my papers!
     <tr>
         <td>36</td>
         <td>2023</td>
-        <td>Yin Wen,  Qing Ye, <b>Cristian Román-Palacios</b>, Hui Liu, Guilin Wu. <i>Physiological cold tolerance evolves faster than climatic niches in plants</i>. Accepted at Frontiers in Plant Sciences.</td>
-        <td>  </td>
+        <td>Yin Wen,  Qing Ye, <b>Cristian Román-Palacios</b>, Hui Liu, Guilin Wu. 2023. <i>Physiological cold tolerance evolves faster than climatic niches in plants</i>. Frontiers in Plant Sciences, 14:1257499.</td>
+        <td> <a href="2023_Wen_etAl.pdf">PDF</a>  </td>
         <td>  </td>
     </tr>
           <tr>
         <td>35</td>
         <td>2023</td>
-        <td><b>Cristian Román-Palacios</b>. <i>Digest: Unveiling the role of chemical communication in lizard diversification</i>. Evolution, qpad148.</td>
+        <td><b>Cristian Román-Palacios</b>. 2023. <i>Digest: Unveiling the role of chemical communication in lizard diversification</i>. Evolution:qpad148.</td>
         <td> <a href="https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpad148/7246297">PDF</a> </td>
         <td>  </td>
     </tr>
           <tr>
         <td>34</td>
         <td>2023</td>
-        <td><b>Cristian Román-Palacios</b>. The <i>phruta</i> R package: increasing access, reproducibility, and transparency in phylogenetic analyses. Methods in Ecology and Evolution.</td>
+        <td><b>Cristian Román-Palacios</b>. 2023. The <i>phruta</i> R package: increasing access, reproducibility, and transparency in phylogenetic analyses. Methods in Ecology and Evolution, 14:2284-2299.</td>
         <td> <a href="2023_phruta_MEE.pdf">PDF</a> </td>
         <td>  </td>
     </tr>
         <tr>
         <td>33</td>
         <td>2022</td>
-        <td>Xiao-Yu Zhu. Shi-Yang Wu, Yi-Jiao Liu, Yun Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i> Goniurosaurus wangshu sp. nov., a new species of Tiger Gecko from Guangdong, China (Squamata: Eublepharidae)</i> Zootaxa, 5188: 544-558.</td>
+        <td>Xiao-Yu Zhu. Shi-Yang Wu, Yi-Jiao Liu, Yun Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. 2022. <i> Goniurosaurus wangshu sp. nov., a new species of Tiger Gecko from Guangdong, China (Squamata: Eublepharidae)</i> Zootaxa, 5188:544-558.</td>
         <td> <a href="ZhuEtAl_Gwangshu.pdf">PDF</a> </td>
         <td> <div data-badge-type="donut" data-doi="10.11646/zootaxa.5188.6.3" data-hide-no-mentions="true" class="altmetric-embed"></div>   </td>
     </tr>
       <tr>
         <td>32</td>
         <td>2022</td>
-        <td>Shi-Yang Wu, Xiao-Yu Zhu, Yi-Jiao Liu, Gustavo Silva De Miranda, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i> A new species of whip spider, Sarax sinensis sp. nov., from Fujian, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5162: 397-409.</td>
+        <td>Shi-Yang Wu, Xiao-Yu Zhu, Yi-Jiao Liu, Gustavo Silva De Miranda, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. 2022. <i> A new species of whip spider, Sarax sinensis sp. nov., from Fujian, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5162:397-409.</td>
         <td> <a href="2022_WuEtAl_SS.pdf">PDF</a> </td>
         <td> <div data-badge-type="donut" data-doi="10.11646/zootaxa.5162.4.4" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
     </tr>
     <tr>
         <td>31</td>
         <td>2022</td>
-        <td><b>Cristian Román-Palacios</b>, Daniela Moraga-Lopez, and John J. Wiens. <i>The origins of global biodiversity on land, sea, and freshwater.</i> Ecology Letters, 25: 1376-1386</td>
+        <td><b>Cristian Román-Palacios</b>, Daniela Moraga-Lopez, and John J. Wiens. 2022. <i>The origins of global biodiversity on land, sea, and freshwater.</i> Ecology Letters, 25:1376-1386.</td>
         <td> <a href="Roman-Palacios_et_al._EL_2022.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1111/ele.13999" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>30</td>
         <td>2021</td>
-        <td><b>Cristian Román-Palacios</b>, April Wright, and Josef Uyeda. <i>treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.</i> PeerJ, 9: e12450.</td>
+        <td><b>Cristian Román-Palacios</b>, April Wright, and Josef Uyeda. 2021. <i>treedata. table: a wrapper for data. table that enables fast manipulation of large phylogenetic trees matched to data.</i> PeerJ, 9:e12450.</td>
         <td> <a href="2021_Roman-Palacios_treedata.table.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.7717/peerj.12450" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>29</td>
         <td>2021</td>
-        <td>Xiao-Yu, Zhu, Shi-Yang Wu, S. Y., Yi-Juao Liu, Chris R. Reardon, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. <i>A new species of whip spider, Weygoldtia hainanensis sp. nov., from Hainan, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5082, 65-76.</td>
+        <td>Xiao-Yu, Zhu, Shi-Yang Wu, S. Y., Yi-Juao Liu, Chris R. Reardon, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. 2021. <i>A new species of whip spider, Weygoldtia hainanensis sp. nov., from Hainan, China (Arachnida: Amblypygi: Charinidae).</i> Zootaxa, 5082:65-76.</td>
         <td> <a href="2021_Zhu_Weygoldtia.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.11646/zootaxa.5082.1.6" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>28</td>
         <td>2021</td>
-        <td>Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. Goniurosaurus chengzheng <i>sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)</i>. Zootaxa, 996, 540–554, 10.11646/zootaxa.4996.3.8.</td>
+        <td>Xiao-Yu Zhu, Yi-Jiao, Liu, Yun, Bai, <b>Cristian Román-Palacios</b>, Zheng Li, Zhu-Qing He. 2021. Goniurosaurus chengzheng <i>sp. nov., a new species of Leopard Gecko from Guangxi, China (Squamata: Eublepharidae)</i>. Zootaxa, 996:540–554, 10.11646/zootaxa.4996.3.8.</td>
         <td> <a href="2021ZhuEtAl.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.11646/zootaxa.4996.3.8" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>27</td>
         <td>2021</td>
-        <td><b>Cristian Román-Palacios</b>, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. <i>Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants</i>. Journal of Evolutionary Biology, 34:1333–1339.</td>
+        <td><b>Cristian Román-Palacios</b>, Cesar A. Medina, Shing H. Zhan, Michael S. Barker. 2021. <i>Animal chromosome counts reveal similar range of chromosome numbers but with less polyploidy in animals compared to flowering plants</i>. Journal of Evolutionary Biology, 34:1333–1339.</td>
         <td>  <a href="RomanPalaciosetal2021.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1111/jeb.13884" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>26</td>
         <td>2021</td>
-        <td>Robert N. Ulrich, Maxence Guillermic, Julia Campbell, Abbas Hakim, Rachel Han, Shayleen Singh, Justin D. Stewart, <b>Cristian Román-Palacios</b>, Hannah M. Carroll, Ilian DeCorte, Rosaleen E. Gilmore, Whitney Doss, Aradhna Tripati, Justin B. Ries, Robert A. Eagle. 2021. <i>Patterns of element incorporation in calcium carbonate biominerals recapitulate phylogeny for a diverse range of marine calcifiers.</i> Frontiers in Earth Science, section Geochemistry, 9:641760</td>
+        <td>Robert N. Ulrich, Maxence Guillermic, Julia Campbell, Abbas Hakim, Rachel Han, Shayleen Singh, Justin D. Stewart, <b>Cristian Román-Palacios</b>, Hannah M. Carroll, Ilian DeCorte, Rosaleen E. Gilmore, Whitney Doss, Aradhna Tripati, Justin B. Ries, Robert A. Eagle. 2021. <i>Patterns of element incorporation in calcium carbonate biominerals recapitulate phylogeny for a diverse range of marine calcifiers.</i> Frontiers in Earth Science, section Geochemistry, 9:641760.</td>
         <td> <a href="UlrichEtAl2021.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.3389/feart.2021.641760" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>25</td>
         <td>2021</td>
-        <td>Tania Hernández-Hernández, Elizabeth C. Miller, <b>Cristian Román-Palacios</b>, and John J. Wiens. 2021. <i>Speciation across the Tree of Life</i>. Biological Reviews, 96:1205-1242</td>
+        <td>Tania Hernández-Hernández, Elizabeth C. Miller, <b>Cristian Román-Palacios</b>, and John J. Wiens. 2021. <i>Speciation across the Tree of Life</i>. Biological Reviews, 96:1205-1242.</td>
         <td> <a href="HernandezHernandezEtAl2021.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1111/brv.12698" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>24</td>
         <td>2021</td>
-        <td>Elizabeth C. Miller and <b>Cristian Román-Palacios</b>. <i>Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity</i>. Global Ecology and Biogeography, 30:749-763.</td>
+        <td>Elizabeth C. Miller and <b>Cristian Román-Palacios</b>. 2021. <i>Evolutionary time best explains the latitudinal diversity gradient of living freshwater fish diversity</i>. Global Ecology and Biogeography, 30:749-763.</td>
         <td>  <a href="2021_MillerRoman_freshwater.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1111/geb.13253" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>23</td>
         <td>2020</td>
-        <td>Xiao-Yu Zhu, Guang-Yu Chen, <b>Cristian Román-Palacios</b>, Zheng Li, and Zhu-Qing He. Goniurosaurus gezhi, <i>a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)</i>. Zootaxa, 4852:211–222</td>
+        <td>Xiao-Yu Zhu, Guang-Yu Chen, <b>Cristian Román-Palacios</b>, Zheng Li, and Zhu-Qing He. 2020. Goniurosaurus gezhi, <i>a new gecko species from Guangxi, China (Squamata: Sauria: Eublepharidae)</i>. Zootaxa, 4852:211–222.</td>
         <td>  <a href="ZhuEtAl2020.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.11646/zootaxa.4852.2.6" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
         <td>22</td>
         <td>2020</td>
-        <td><b>Cristian Román-Palacios</b>, Yherson Franchesco Molina-Henao, and Michael S. Barker. <i>Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae</i>. Proceedings of the Royal Society B, 287:20200962.</td>
+        <td><b>Cristian Román-Palacios</b>, Yherson Franchesco Molina-Henao, and Michael S. Barker. 2020. <i>Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae</i>. Proceedings of the Royal Society B, 287:20200962.</td>
         <td>   <a href="Roman-Palaciosetal_Brassicaceae_2020.pdf">PDF</a> </td>
         <td><div data-badge-type="donut" data-doi="10.1098/rspb.2020.0962" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
@@ -151,7 +151,7 @@ Thanks for visiting my website and reading my papers!
         <td>20</td>
         <td>2019</td>
         <td><b>Cristian Román-Palacios</b>. 2019. <i>Five tips for nailing your US-based graduate-school applications.</i>. Nature, 4:339–347.</td>
-        <td>  <a href="https://www.nature.com/articles/d41586-019-00845-z">Link</a> </td>
+        <td>  <a href="Nature_2019.pdf">PDF</a>  </td>
         <td><div data-badge-type="donut" data-doi="10.1038/d41586-019-00845-z" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
     <tr>
