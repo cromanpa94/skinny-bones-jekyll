@@ -36,6 +36,12 @@ Thanks for visiting my website and reading my papers!
         <td>Coverage</td>
     </tr>
     <tr>
+        <td>37</td>
+        <td>2023</td>
+        <td>Elliot Gould, <i>... [184 authors]...</i>, <b>Cristian Román-Palacios</b>, <i>... [68 authors]...</i>, Emily M. Tompkins. 2023. <i>Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology</i>. EcoEvoRxiv.</td>
+        <td> <a href="https://ecoevorxiv.org/repository/view/6000/">PDF</a>  </td>
+        <td>  </td>
+    </tr>
         <td>36</td>
         <td>2023</td>
         <td>Yin Wen,  Qing Ye, <b>Cristian Román-Palacios</b>, Hui Liu, Guilin Wu. 2023. <i>Physiological cold tolerance evolves faster than climatic niches in plants</i>. Frontiers in Plant Sciences, 14:1257499.</td>
