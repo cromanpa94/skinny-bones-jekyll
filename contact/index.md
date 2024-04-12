@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Please get in touch! :)"
+title: "contact"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
 image:
@@ -14,9 +14,8 @@ ads: false
 <p align="center">
   <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br><br>
   <b>Cristian Román-Palacios</b><br>
-  Assistant Professor of Practice<br>
+  Assistant Professor<br>
   University of Arizona<br>  
-  Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a><br>  
   Email: <a href="mailto:cromanpa@arizona.edu">cromanpa94@arizona.edu</a><br>  
   Twitter: <a href="https://twitter.com/cromanpa">@cromanpa</a><br/>
   Linkedin: <a href="https://www.linkedin.com/in/cromanpa/">Cristian Román-Palacios</a><br/>
