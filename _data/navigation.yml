@@ -1,18 +1,12 @@
 # Site navigation links
 
-- title: Home
-  url: /
 - title: News
   url: /News/
-- title: Papers
-  url: /articles/
-- title: Lab
-  url: /Lab/
-- title: Collaborators
-  url: /Collaborators/
-- title: Blog & Code
+- title: Research2
+  url: datadiversitylab.github.io
+- title: Blog
   url: /Blog/
-- title: Contact!
+- title: Contact
   url: /contact/
 
 
