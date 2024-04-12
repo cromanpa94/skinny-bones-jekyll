@@ -1,8 +1,6 @@
 # Site navigation links
 
-- title: News
-  url: /News/
-- title: Research2
+- title: Lab website
   url: https://datadiversitylab.github.io
 - title: Blog
   url: /Blog/
