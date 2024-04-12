@@ -12,6 +12,7 @@ image:
 share: true
 ---
 
+- [Personal/academic news](news.md)
 - [Convocatorias docentes en Colombia](c.Convocatorias.md)
 - [Apostillar titulos en Colombia](Apostilla.md)
 - [Aplicar a un doctorado en US (1)](PhDUSA.md)
